@@ -11,3 +11,84 @@ output:
   distill::distill_article:
     self_contained: false
 ---
+
+The Global Diabetes Journal Club encourage global collaborations as part of our mission. We have launched two ad hoc working groups, each work on a systematic review of a topic relevant to diabetes research.
+
+One of the systematic reviews investigates the effectiveness of using telemedicine interventions relevant for primary care setting in prevention of type 2 diabetes.
+
+The other systematic review investigates...
+
+## Effectiveness of telemedicine in prevention of type 2 diabetes: a systematic review and meta-analysis of interventions relevant for primary care settings
+
+The systematic review is registered in [PROSPERO](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020210829).
+
+The main review question is: What is the effectiveness of using telemedicine interventions relevant for primary care setting in prevention of type 2 diabetes?
+
+We will search for relevant literature in the following databases: MEDLINE, Embase, Scopus, CINAHL, Web of Science, SciELO and LILACS.
+
+### Types of study to be included
+We will include all types of intervention studies, including randomized and non-randomized interventions. Observational studies are excluded.
+
+We decided to also include non-randomized interventions to broaden the scope of our review as our preliminary search revealed many recent publications of innovative interventions without a control group.
+
+We will exclude studies that are more than 10 years old (i.e. 2010 and older) because the technologies used 10 years ago are likely outdated and not relevant today.
+Condition or domain being studied
+Prevention of type 2 diabetes.
+
+### Participants/population
+Adults (age ≥18 years) at high risk of developing type 2 diabetes according to the study-specific definition of ‘high risk.’ This includes prediabetes diagnosis, metabolic syndrome, overweight/obesity, and/or use of prediabetes screening tools. Studies including children, people with established type 2 diabetes, type 1 diabetes, gestational diabetes and/or other metabolic or mental health conditions will be excluded.
+
+We decided to be agnostic about the specific definition of high risk of type 2 diabetes because our preliminary search revealed no standardization of this categorization and because all groups would be relevant for prevention of type 2 diabetes.
+
+### Intervention/exposure
+Any lifestyle interventions (e.g. diet, physical activity) or medicine (e.g. metformin) delivered using telemedicine, including various mHealth, eHealth and other technologically assisted or conducted interventions. The intervention should be relevant to or take place at a primary health care setting.
+
+We decided to focus on interventions carried out in primary care settings or in settings that resemble primary care settings to best inform which interventions would be relevant, if any, in primary care settings, without necessarily restricting studies to only being carried out in such a setting.
+
+### Comparator/control
+There is no restriction on the type of control, but studies will be grouped according to control being: 1) usual care, 2) lifestyle intervention without telemedicine or 3) absent.
+
+We decided to include different types of control groups as these answer different research questions relevant to the main research question.
+
+### Main outcome
+Body weight change.
+
+We chose this as the primary outcome because it is clinically relevant and often the outcome that studies base their power calculations on.
+Measures of effect
+Mean difference.
+
+### Additional outcomes
+- Incidence of type 2 diabetes
+- Changes in fasting blood glucose
+- Changes in HbA1c
+- Changes in 2-hour glucose tolerance
+- Changes in HOMA-IR
+- Changes in blood lipids
+- Changes in blood pressure
+- Changes in waist circumference
+
+### Review Team
+Review team members and their organisational affiliations
+Daniel Ibsen. Department of Public Health, Aarhus University
+
+Camille Mba. MRC Epidemiology Unit, University of Cambridge School of Clinical Medicine, Cambridge, United Kingdom
+
+Elpida Vounzoulaki. Diabetes Research Centre, University of Leicester, United Kingdom
+
+Enzo Cerullo. NIHR Complex Reviews Support Unit, Biostatistics Research Group, University of Leicester, United Kingdom
+
+Harold Torres. Clinica San Felipe, Lima, Peru
+
+Kjell Olsson. Department of Clinical Sciences, Lund University, Sweden
+
+Steven James. School of Nursing, Midwifery and Paramedicine, University of the Sunshine Coast, Petrie, Australia
+
+Raga Ayyagari. Mathematica Policy Research, Princeton, NJ, United States of America
+
+## Title of other systematic review
+
+
+
+
+
+
