@@ -9,3 +9,19 @@ We run two main programs:
 
   - **GDJC Talks** One hour long Zoom meetings that comprise an article/project presentation and discussion. 
   - **Ad hoc working groups** In Summer 2020, we created two research teams, each of which is preparing a systematic review on an aspect of prevention of type 2 diabetes. 
+  
+## Latest GDJC Talk
+### José Luis Flores-Guerrero – Branched chain amino acids and risk of type 2 diabetes
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=A79LxR-D4RA" frameborder="0" allowfullscreen></iframe>
+
+Global Diabetes Journal Club Talk by José Luis Flores-Guerrero, PhD student at the the University Medical Center Gröningen in the Netherlands, on circulating branched chain amino acids and risk of type 2 diabetes. 
+
+He gives a detailed background of the topic, potential mechanisms that explain the relationship and discuss some of his own studies investigating branched chain amino acids and risk of type 2 diabetes based on the Dutch PREVEND cohort.
+
+The talk is based on several of his papers on [type 2 diabetes](https://pubmed.ncbi.nlm.nih.gov/30518023/), [non-alcoholic fatty liver disease](https://pubmed.ncbi.nlm.nih.gov/30917546/) and [hypertension](https://pubmed.ncbi.nlm.nih.gov/31587574/).
+
+During the discussion a [Mendelian randomization](https://pubmed.ncbi.nlm.nih.gov/27898682/) study was also mentioned. 
+
+
+Follow José Luis on Twitter @JLuis_FG

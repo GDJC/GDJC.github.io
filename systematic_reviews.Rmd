@@ -20,7 +20,6 @@ One of the systematic reviews investigates the effectiveness of using telemedici
 The other systematic review investigates...
 
 ## Effectiveness of telemedicine in prevention of type 2 diabetes: a systematic review and meta-analysis of interventions relevant for primary care settings
-
 The systematic review is registered in [PROSPERO](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020210829).
 
 The main review question is: What is the effectiveness of using telemedicine interventions relevant for primary care setting in prevention of type 2 diabetes?
