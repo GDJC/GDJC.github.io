@@ -1,7 +1,5 @@
 ---
-title: "2020"
-description: |
-  End of year research list 2020
+title: "End of year research list"
 author:
   - name: Daniel B. Ibsen
     affiliation: Steno Diabetes Center Aarhus
@@ -11,3 +9,137 @@ output:
   distill::distill_article:
     self_contained: false
 ---
+
+# Global Diabetes Journal Club end-of-2020 reading list for and by early-career researchers in diabetes
+
+## BASIC SCIENCE: Cells, receptors, agonists & inhibitors
+
+**Single-cell resolution analysis of the human pancreatic ductal progenitor cell niche** 
+
+Submitted by Mirza Muhammad Fahd Qadir, PhD (Postdoc at University of Miami). 
+This paper shows ductal cell heterogeneity, in cells isolated from islet depleted exocrine tissue.
+
+**Efficacy and tolerability of sodium‐glucose co‐transporter‐2 inhibitors and glucagon‐like peptide‐1 receptor agonists: A systematic review and network meta‐analysis** 
+
+Submitted by Humaira Hussein, MSc (PhD student at University of Leicester). 
+This paper highlights the benefits and risks of treatments within two classes of glucose-lowering medications, which can provide essential evidence in the guidance of treatment management in type 2 diabetes
+
+**Long-term culture of human pancreatic slices as a model to study real-time islet regeneration** 
+
+Submitted by Mirza Muhammad Fahd Qadir, PhD (Postdoc at University of Miami). 
+This paper enables the community to maintain 135micron thick live human pancreas slices for 7-10d, in order to study pancreas biology and endocrine cell regeneration.
+
+## BASIC SCIENCE: Genomics
+
+**Longitudinal DNA methylation differences precede type 1 diabetes**
+
+Submitted by Randi Johnson, PhD (Postdoc at University of Colorado Anschutz). 
+This paper describes (for the first time) longitudinal DNA methylation differences that appear prior to type 1 diabetes diagnosis, suggesting epigenetic changes may influence disease progression.
+
+**A Multi-omic Integrative Scheme Characterizes Tissues of Action at Loci Associated with Type 2 Diabetes**
+
+Submitted by Jason Torres, PhD (Senior Genetic Epidemiologist at the Nuffield Department of Population Health, University of Oxford). 
+This work proposes an integrative approach to combine genetic and epigenomic data together at T2D-associated loci to resolve tissues that drive disease risk.
+
+## EPIDEMIOLOGY: Comorbidities
+
+**Association of Type 2 Diabetes With Cancer: A Meta-analysis With Bias Analysis for Unmeasured Confounding in 151 Cohorts Comprising 32 Million People**
+ 
+Submitted by Suping Ling, PhD (Postdoc at University of Leicester). 
+Our findings strongly suggest a causal association between T2D and liver, pancreatic, and endometrial cancer incidence, and pancreatic cancer mortality, while associations with other cancers were less robust to unmeasured confounding.
+
+**Multimorbidity, mortality, and HbA1c in type 2 diabetes: A cohort study with UK and Taiwanese cohorts**
+
+Submitted by Jason Chiang, PhD (Research Fellow at University of Sydney).
+The first study to assess and compare the relationship between total, concordant, and discordant multimorbidity counts; HbA1c; and all-cause mortality in two cohorts of people with type 2 diabetes.
+
+**Diabetes & Musculoskeletal Disorders - A Review**
+
+Submitted by Shraboni Ghosal, RNutr (Nutrition Consultant, Researcher). 
+The effects of diabetes on musculoskeletal disorders and the possible mechanisms through which diabetes may contribute to them.
+
+**Impact of COVID-19 on routine care for chronic diseases: A global survey of views from healthcare professionals**
+
+Submitted by Yogini Chudasama, PhD (Epidemiologist at University of Leicester). 
+This survey gave a better insight on the type of chronic disease most impacted by COVID-19 and highlighted the importance of routine care for chronic diseases in spite of the pandemic.
+
+**Multimorbidity, glycaemic variability and time in target range in people with type 2 diabetes: A baseline analysis of the GP-OSMOTIC trial**
+
+Submitted by Jason Chiang, PhD (Research Fellow at University of Sydney). 
+First study to explore associations between multimorbidity and novel glycaemic measures (e.g. glycaemic variability & time-in-range) in people with T2D.
+
+**Healthy lifestyle and life expectancy in people with multimorbidity in the UK Biobank: A longitudinal cohort study**
+
+Submitted by Yogini Chudasama, PhD (Epidemiologist at Uni of Leicester). 
+We found that an overall healthy lifestyle largely counterbalances the negative association between multimorbidity and life expectancy.
+
+**Does Diabetes increase Joint pain? - A Review**
+
+Submitted by Shraboni Ghosal, RNutr (Nutrition Consultant, Researcher).
+Diabetes can affect bones and muscles and damage nerves, which may increase joint pain.
+EPIDEMIOLOGY: Nutritional
+
+**Replacement of Red and Processed Meat With Other Food Sources of Protein and the Risk of Type 2 Diabetes in European Populations: The EPIC-InterAct Study**
+
+Submitted by Daniel Ibsen, PhD (Postdoc at Karolinska Institutet). 
+This study highlights that substituting red and processed meat by either cheese, yogurt, nuts or cereals may contribute to the prevention of incident type 2 diabetes in European populations.
+
+**Association of the Mediterranean Diet With Onset of Diabetes in the Women's Health Study**
+
+Submitted by Shafqat Ahmad, PhD (Postdoc at Uppsala University). 
+Potential biological mechanisms through which higher consumption of Mediterranean Diet intake may reduce the future risk of type 2 diabetes.
+
+**Adherence to the Danish food-based dietary guidelines and risk of type 2 diabetes: the Danish diet, cancer, and health cohort**
+
+Submitted by Daniel Ibsen, PhD (Postdoc at Karolinska Institutet). 
+Our paper suggests that shifting from low to high adherence to the Danish dietary guidelines may prevent 3–6% cases of type 2 diabetes.
+
+## EPIDEMIOLOGY: Social
+
+**Effect of familial diabetes status and age at diagnosis on type 2 diabetes risk: a nation-wide register-based study from Denmark**
+
+Submitted by Omar Silverman, PhD (Postdoc at Steno Diabetes Center Aarhus). 
+This study shows how an individual’s risk of type 2 diabetes depends on the age at which a family member is diagnosed with diabetes.
+
+## Gestational Diabetes
+
+**Progression to type 2 diabetes in women with a known history of gestational diabetes: systematic review and meta-analysis**
+
+Submitted by Elpida Vounzoulaki, MSc, RN (PhD Researcher in Diabetes Epidemiology at University of Leicester). 
+Women with a history of GDM appear to have a nearly 10-fold higher risk of developing T2DM than those with a normoglycaemic pregnancy.
+
+**Gestational diabetes: screening uptake, current challenges and the future**
+
+Submitted by Elpida Vounzoulaki, MSc, RN (PhD Researcher in Diabetes Epidemiology at University of Leicester). 
+This review highlights that, regardless of all the evidence, the uptake of both short-and long-term post-partum T2DM screening in women with previous GDM is low in the UK.
+
+## Health Economics
+
+**Challenges and economic burden of diabetes in Africa**
+
+Submitted by Camille Mba, MD (PhD student at University of Cambridge, MRC Epidemiology Unit).
+Book chapter reviewing the economic burden of diabetes in Africa. Sub-Saharan Africa will experience the greatest increases globally in the next 20 years: 143%. 
+
+## Metabolic Syndrome
+
+**A cross-sectional study of the association between the 1-hour oral glucose tolerance test and the metabolic syndrome in a high-risk sample with impaired fasting glucose**
+
+Submitted by Juan Carlos Lizarzaburu-Robles, MD (Endocrinologist and Researcher at Hospital Central de la Fuerza Aérea del Perú). 
+Among subjects with IFG, performing an OGTT was helpful to identify subjects with 1-hour glucose levels ≥155 mg/dL and NGT who were significantly more likely to have MS and a worse cardiometabolic risk profile.
+Monogenic-Onset Diabetes in the Young (MODY)
+
+**Atypical hyperglycemia presentation suggests considering a diagnostic of other types of diabetes: first reported GCK-MODY in Perú**
+
+Submitted by Juan Carlos Lizarzaburu-Robles, MD (Endocrinologist and Researcher at Hospital Central de la Fuerza Aérea del Perú). 
+Atypical hyperglycemia presentation suggests considering a diagnostic of other types of diabetes
+Type 1 Diabetes
+
+**Insulin pricing and other major diabetes-related concerns in the USA: a study of 46 407 tweets between 2017 and 2019**
+
+Submitted by Adrian Ahne, MSc (PhD student at Université Paris Saclay).
+Using social media data, we have been able to describe key diabetes-related concerns and their associated emotions.
+
+**Metabolomics-related nutrient patterns at seroconversion and risk of progression to type 1 diabetes**
+
+Submitted by Randi Johnson, PhD (Postdoc at University of Colorado Anschutz). 
+From metabolomics signatures reflective of islet autoimmunity, we identified a pattern of nutrient intake associated with increased risk of progression to type 1 diabetes, confirming prior individual nutrient associations with disease progression and suggesting new hypotheses for nutrients in T1D risk.

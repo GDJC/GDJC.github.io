@@ -1,9 +1,10 @@
 ---
 title: "Systematic Reviews"
-description: |
-  Ad hoc working group projects?
 author:
-  - name: Daniel B. Ibsen
+  - name: Daniel Ibsen
+    affiliation: Steno Diabetes Center Aarhus
+    affiliation_url: https://stenoaarhus.dk
+  - name: Omar Silverman
     affiliation: Steno Diabetes Center Aarhus
     affiliation_url: https://stenoaarhus.dk
 date: "`r Sys.Date()`"
@@ -68,7 +69,6 @@ Mean difference.
 - Changes in waist circumference
 
 ### Review Team
-Review team members and their organisational affiliations
 Daniel Ibsen. Department of Public Health, Aarhus University
 
 Camille Mba. MRC Epidemiology Unit, University of Cambridge School of Clinical Medicine, Cambridge, United Kingdom

@@ -1,7 +1,5 @@
 ---
-title: "Talks"
-description: |
-  Global Diabetes Journal Club Talk.
+title: "GLobal Diabetes Journal Club Talks"
 author:
   - name: Daniel B. Ibsen
     affiliation: Steno Diabetes Center Aarhus
@@ -21,12 +19,9 @@ Global Diabetes Journal Club Talk by José Luis Flores-Guerrero, PhD student at 
 
 He gives a detailed background of the topic, potential mechanisms that explain the relationship and discuss some of his own studies investigating branched chain amino acids and risk of type 2 diabetes based on the Dutch PREVEND cohort.
 
-The talk is based on several of his papers:
-On [type 2 diabetes](https://pubmed.ncbi.nlm.nih.gov/30518023/), [non-alcoholic fatty liver disease](https://pubmed.ncbi.nlm.nih.gov/30917546/) and [hypertension](https://pubmed.ncbi.nlm.nih.gov/31587574/).
-https://pubmed.ncbi.nlm.nih.gov/30917... ()
-https://pubmed.ncbi.nlm.nih.gov/31587... (hypertension)
+The talk is based on several of his papers on [type 2 diabetes](https://pubmed.ncbi.nlm.nih.gov/30518023/), [non-alcoholic fatty liver disease](https://pubmed.ncbi.nlm.nih.gov/30917546/) and [hypertension](https://pubmed.ncbi.nlm.nih.gov/31587574/).
 
-During the discussion a [Mendelian randomization](https://pubmed.ncbi.nlm.nih.gov/27898682/) study is also mentioned 
+During the discussion a [Mendelian randomization](https://pubmed.ncbi.nlm.nih.gov/27898682/) study was also mentioned. 
 
 
 Follow José Luis on Twitter @JLuis_FG

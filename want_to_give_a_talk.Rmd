@@ -1,12 +1,5 @@
 ---
-title: "Want to give a talk"
-description: |
-  Want to give a talk?
-author:
-  - name: Daniel B. Ibsen
-    affiliation: Steno Diabetes Center Aarhus
-    affiliation_url: https://stenoaarhus.dk
-date: "`r Sys.Date()`"
+title: "Want to give a talk?"
 output:
   distill::distill_article:
     self_contained: false

@@ -1,11 +1,5 @@
 ---
 title: "Calendar"
-description: |
-  Calendar for the GDJC Talks.
-author:
-  - name: Daniel B. Ibsen
-    affiliation: Steno Diabetes Center Aarhus
-    affiliation_url: https://stenoaarhus.dk
 date: "`r Sys.Date()`"
 output:
   distill::distill_article:
@@ -24,7 +18,7 @@ We regularly update the calendar.
 
 ```{r reading-google-sheet, echo=FALSE}
 
-GDJC_calendar_2021 <- read_sheet("https://docs.google.com/spreadsheets/d/1UyNK6WxiKiGgvylb-WyF22r51iTMk47rUdjtEo_wG_A/edit?usp=sharing")
+GDJC_calendar_2021 <- read_sheet("https://docs.google.com/spreadsheets/d/1UyNK6WxiKiGgvylb-WyF22r51iTMk47rUdjtEo_wG_A/edit?usp=sharing", range = "A1:G13")
 
 GDJC_calendar_2021 %>% 
   knitr::kable()

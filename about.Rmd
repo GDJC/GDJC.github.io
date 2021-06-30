@@ -1,7 +1,5 @@
 ---
 title: "About the Global Diabetes Journal Club"
-description: |
-  Some additional details about the website
 author:
   - name: Daniel Ibsen
     affiliation: Steno Diabetes Center Aarhus
@@ -20,10 +18,6 @@ output:
   distill::distill_article:
     self_contained: false
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
 Welcome to the Global Diabetes Journal Club (GDJC) website! We aim to sustain a collegial, accessible platform for diabetes researchers, health care providers and the public to connect and learn about recent research across nutritional, clinical and genetic epidemiology as they apply to diabetes. Our members have joined GDJC meetings from 6 continents. 
 
