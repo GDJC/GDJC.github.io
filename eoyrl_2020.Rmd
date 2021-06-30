@@ -10,38 +10,7 @@ output:
     self_contained: false
 ---
 
-# Global Diabetes Journal Club end-of-2020 reading list for and by early-career researchers in diabetes
-
-## BASIC SCIENCE: Cells, receptors, agonists & inhibitors
-
-**Single-cell resolution analysis of the human pancreatic ductal progenitor cell niche** 
-
-Submitted by Mirza Muhammad Fahd Qadir, PhD (Postdoc at University of Miami). 
-This paper shows ductal cell heterogeneity, in cells isolated from islet depleted exocrine tissue.
-
-**Efficacy and tolerability of sodium‐glucose co‐transporter‐2 inhibitors and glucagon‐like peptide‐1 receptor agonists: A systematic review and network meta‐analysis** 
-
-Submitted by Humaira Hussein, MSc (PhD student at University of Leicester). 
-This paper highlights the benefits and risks of treatments within two classes of glucose-lowering medications, which can provide essential evidence in the guidance of treatment management in type 2 diabetes
-
-**Long-term culture of human pancreatic slices as a model to study real-time islet regeneration** 
-
-Submitted by Mirza Muhammad Fahd Qadir, PhD (Postdoc at University of Miami). 
-This paper enables the community to maintain 135micron thick live human pancreas slices for 7-10d, in order to study pancreas biology and endocrine cell regeneration.
-
-## BASIC SCIENCE: Genomics
-
-**Longitudinal DNA methylation differences precede type 1 diabetes**
-
-Submitted by Randi Johnson, PhD (Postdoc at University of Colorado Anschutz). 
-This paper describes (for the first time) longitudinal DNA methylation differences that appear prior to type 1 diabetes diagnosis, suggesting epigenetic changes may influence disease progression.
-
-**A Multi-omic Integrative Scheme Characterizes Tissues of Action at Loci Associated with Type 2 Diabetes**
-
-Submitted by Jason Torres, PhD (Senior Genetic Epidemiologist at the Nuffield Department of Population Health, University of Oxford). 
-This work proposes an integrative approach to combine genetic and epigenomic data together at T2D-associated loci to resolve tissues that drive disease risk.
-
-## EPIDEMIOLOGY: Comorbidities
+## EPIDEMIOLOGY
 
 **Association of Type 2 Diabetes With Cancer: A Meta-analysis With Bias Analysis for Unmeasured Confounding in 151 Cohorts Comprising 32 Million People**
  
@@ -94,14 +63,10 @@ Potential biological mechanisms through which higher consumption of Mediterranea
 Submitted by Daniel Ibsen, PhD (Postdoc at Karolinska Institutet). 
 Our paper suggests that shifting from low to high adherence to the Danish dietary guidelines may prevent 3–6% cases of type 2 diabetes.
 
-## EPIDEMIOLOGY: Social
-
 **Effect of familial diabetes status and age at diagnosis on type 2 diabetes risk: a nation-wide register-based study from Denmark**
 
 Submitted by Omar Silverman, PhD (Postdoc at Steno Diabetes Center Aarhus). 
 This study shows how an individual’s risk of type 2 diabetes depends on the age at which a family member is diagnosed with diabetes.
-
-## Gestational Diabetes
 
 **Progression to type 2 diabetes in women with a known history of gestational diabetes: systematic review and meta-analysis**
 
@@ -113,14 +78,6 @@ Women with a history of GDM appear to have a nearly 10-fold higher risk of devel
 Submitted by Elpida Vounzoulaki, MSc, RN (PhD Researcher in Diabetes Epidemiology at University of Leicester). 
 This review highlights that, regardless of all the evidence, the uptake of both short-and long-term post-partum T2DM screening in women with previous GDM is low in the UK.
 
-## Health Economics
-
-**Challenges and economic burden of diabetes in Africa**
-
-Submitted by Camille Mba, MD (PhD student at University of Cambridge, MRC Epidemiology Unit).
-Book chapter reviewing the economic burden of diabetes in Africa. Sub-Saharan Africa will experience the greatest increases globally in the next 20 years: 143%. 
-
-## Metabolic Syndrome
 
 **A cross-sectional study of the association between the 1-hour oral glucose tolerance test and the metabolic syndrome in a high-risk sample with impaired fasting glucose**
 
@@ -143,3 +100,39 @@ Using social media data, we have been able to describe key diabetes-related conc
 
 Submitted by Randi Johnson, PhD (Postdoc at University of Colorado Anschutz). 
 From metabolomics signatures reflective of islet autoimmunity, we identified a pattern of nutrient intake associated with increased risk of progression to type 1 diabetes, confirming prior individual nutrient associations with disease progression and suggesting new hypotheses for nutrients in T1D risk.
+
+## GENOMICS
+
+**Longitudinal DNA methylation differences precede type 1 diabetes**
+
+Submitted by Randi Johnson, PhD (Postdoc at University of Colorado Anschutz). 
+This paper describes (for the first time) longitudinal DNA methylation differences that appear prior to type 1 diabetes diagnosis, suggesting epigenetic changes may influence disease progression.
+
+**A Multi-omic Integrative Scheme Characterizes Tissues of Action at Loci Associated with Type 2 Diabetes**
+
+Submitted by Jason Torres, PhD (Senior Genetic Epidemiologist at the Nuffield Department of Population Health, University of Oxford). 
+This work proposes an integrative approach to combine genetic and epigenomic data together at T2D-associated loci to resolve tissues that drive disease risk.
+
+## BASIC SCIENCE
+
+**Single-cell resolution analysis of the human pancreatic ductal progenitor cell niche** 
+
+Submitted by Mirza Muhammad Fahd Qadir, PhD (Postdoc at University of Miami). 
+This paper shows ductal cell heterogeneity, in cells isolated from islet depleted exocrine tissue.
+
+**Efficacy and tolerability of sodium‐glucose co‐transporter‐2 inhibitors and glucagon‐like peptide‐1 receptor agonists: A systematic review and network meta‐analysis** 
+
+Submitted by Humaira Hussein, MSc (PhD student at University of Leicester). 
+This paper highlights the benefits and risks of treatments within two classes of glucose-lowering medications, which can provide essential evidence in the guidance of treatment management in type 2 diabetes
+
+**Long-term culture of human pancreatic slices as a model to study real-time islet regeneration** 
+
+Submitted by Mirza Muhammad Fahd Qadir, PhD (Postdoc at University of Miami). 
+This paper enables the community to maintain 135micron thick live human pancreas slices for 7-10d, in order to study pancreas biology and endocrine cell regeneration.
+
+## HEALTH ECONOMICS
+
+**Challenges and economic burden of diabetes in Africa**
+
+Submitted by Camille Mba, MD (PhD student at University of Cambridge, MRC Epidemiology Unit).
+Book chapter reviewing the economic burden of diabetes in Africa. Sub-Saharan Africa will experience the greatest increases globally in the next 20 years: 143%. 

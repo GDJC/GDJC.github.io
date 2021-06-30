@@ -12,9 +12,8 @@ library(googlesheets4)
 
 ```
 
-Each month we have a new and interesting talk and discussion by an early-career diabetes researher.
+Each month we have a new and interesting talk and discussion by an early-career diabetes researcher.
 
-We regularly update the calendar.
 
 ```{r reading-google-sheet, echo=FALSE}
 
