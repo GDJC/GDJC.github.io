@@ -7,7 +7,7 @@ get_stage("deploy") %>%
 if (ci_on_ghactions()) {
   get_stage("before_deploy") %>%
     add_step(step_setup_ssh())
-  
+
   get_stage("deploy") %>%
     add_step(step_push_deploy(path = "_site", branch = "gh-pages"))
 }
