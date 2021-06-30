@@ -1,0 +1,48 @@
+---
+title: "Talks"
+description: |
+  Global Diabetes Journal Club Talk.
+author:
+  - name: Daniel B. Ibsen
+    affiliation: Steno Diabetes Center Aarhus
+    affiliation_url: https://stenoaarhus.dk
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+# June 2021
+### José Luis Flores-Guerrero – Branched chain amino acids and risk of type 2 diabetes
+
+# May 2021
+### Dr. Thaddäus Tönnies – Productivity-adjusted life years lost to type 2 diabetes
+
+# April 2021
+### Adrian Ahne – Diabetes distress patterns based on social media data using AI methods
+
+# March 2021
+### Dr. Suping Ling - Investigating causality between type 2 diabetes and cancer
+
+# February 2021
+### Dr. Jason Torres - Tissue-level classification of loci associated with type 2 diabetes
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=rZ7MIf71Tw4&t=1946s" frameborder="0" allowfullscreen></iframe>
+
+Global Diabetes Journal Club Talk by Dr. Jason Torres from Nuffield Department of Population Health, University of Oxford, on tissue-level classification of loci associated with type 2 diabetes.
+
+Index 
+00:00:00 - Introducing speaker
+00:01:04 - Intro: genetics & diabetes
+00:15:14 - Objective
+00:17:41 - Methods
+00:27:57 - Results
+00:40:13 - Validation study
+00:48:05 - Summary, Q&A
+
+The talk is based on [Torres et al. 2020]( https://www.cell.com/ajhg/fulltext/S0002-9297(20)30367-0)
+
+Here is a paper we recommend reading for [context](https://academic.oup.com/edrv/article/40/6/1500/5535575?login=true) 
+
+Follow Dr. Torres @JMTorres138
+

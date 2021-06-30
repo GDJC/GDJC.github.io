@@ -1,0 +1,13 @@
+---
+title: "Systematic Reviews"
+description: |
+  Ad hoc working group projects?
+author:
+  - name: Daniel B. Ibsen
+    affiliation: Steno Diabetes Center Aarhus
+    affiliation_url: https://stenoaarhus.dk
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    self_contained: false
+---

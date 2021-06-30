@@ -1,0 +1,35 @@
+---
+title: "About the Global Diabetes Journal Club"
+description: |
+  Some additional details about the website
+author:
+  - name: Daniel Ibsen
+    affiliation: Steno Diabetes Center Aarhus
+    affiliation_url: https://stenoaarhus.dk
+  - name: Camille Mba
+    affiliation: MRC Epidemiology Unit
+    affiliation_url: https://www.mrc-epid.cam.ac.uk/
+  - name: Omar Silverman
+    affiliation: Steno Diabetes Center Aarhus
+    affiliation_url: https://stenoaarhus.dk
+  - name: Lauren Wedekind
+    affiliation: National Institute of Diabetes and Digestive and Kidney Diseases
+    affiliation_url: https://www.niddk.nih.gov/
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Welcome to the Global Diabetes Journal Club (GDJC) website! We aim to sustain a collegial, accessible platform for diabetes researchers, health care providers and the public to connect and learn about recent research across nutritional, clinical and genetic epidemiology as they apply to diabetes. Our members have joined GDJC meetings from 6 continents. 
+
+We run two main programs:
+
+  - **GDJC Talks** One hour long Zoom meetings that comprise an article/project presentation and discussion. 
+  - **Ad hoc working groups** In Summer 2020, we created two research teams, each of which is preparing a systematic review on an aspect of prevention of type 2 diabetes. 
+
+

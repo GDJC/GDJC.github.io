@@ -1,0 +1,14 @@
+---
+title: "Calendar"
+description: |
+  Calendar for the GDJC Talks.
+author:
+  - name: Daniel B. Ibsen
+    affiliation: Steno Diabetes Center Aarhus
+    affiliation_url: https://stenoaarhus.dk
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+

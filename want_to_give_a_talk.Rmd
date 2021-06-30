@@ -1,0 +1,15 @@
+---
+title: "Want to give a talk"
+description: |
+  Want to give a talk?
+author:
+  - name: Daniel B. Ibsen
+    affiliation: Steno Diabetes Center Aarhus
+    affiliation_url: https://stenoaarhus.dk
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+If you want to give a talk please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSfS91_dI-2yHk6jl7wiaJAEvIqnDmKjRqBiU3tjANYiME4HHg/viewform)

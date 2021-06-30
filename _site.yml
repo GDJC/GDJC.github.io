@@ -1,0 +1,38 @@
+---
+name: "GDJC-website"
+title: "Global Diabetes Journal Club"
+description: |
+  Global Diabetes Journal Club website
+output_dir: "_site"
+theme: theme.css
+creative_commons: CC BY
+navbar:
+  search: true
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Talks"
+      menu:
+        - text: "GDJC Talks"
+          href: talks.html
+        - text: "Calendar"
+          href: calendar.html
+        - text: "Want to give a talk"
+          href: want_to_give_a_talk.html
+    - text: "Ongoing projects"
+      menu:
+          - text: "Systematic reviews"
+            href: systematic_reviews.html
+    - text: "End of year research list"
+      menu:
+          - text: "2020"
+            href: eoyrl_2020.html
+    - text: "About"
+      href: about.html
+    - icon: fab fa-github
+      href: https://rstudio.github.io/distill/website.html
+output: 
+  distill::distill_article:
+    toc: true
+    toc_depth: 2
+---
