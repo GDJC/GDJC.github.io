@@ -15,14 +15,59 @@ output:
 # June 2021
 ### José Luis Flores-Guerrero – Branched chain amino acids and risk of type 2 diabetes
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=A79LxR-D4RA" frameborder="0" allowfullscreen></iframe>
+
+Global Diabetes Journal Club Talk by José Luis Flores-Guerrero, PhD student at the the University Medical Center Gröningen in the Netherlands, on circulating branched chain amino acids and risk of type 2 diabetes. 
+
+He gives a detailed background of the topic, potential mechanisms that explain the relationship and discuss some of his own studies investigating branched chain amino acids and risk of type 2 diabetes based on the Dutch PREVEND cohort.
+
+The talk is based on several of his papers:
+On [type 2 diabetes](https://pubmed.ncbi.nlm.nih.gov/30518023/), [non-alcoholic fatty liver disease](https://pubmed.ncbi.nlm.nih.gov/30917546/) and [hypertension](https://pubmed.ncbi.nlm.nih.gov/31587574/).
+https://pubmed.ncbi.nlm.nih.gov/30917... ()
+https://pubmed.ncbi.nlm.nih.gov/31587... (hypertension)
+
+During the discussion a [Mendelian randomization](https://pubmed.ncbi.nlm.nih.gov/27898682/) study is also mentioned 
+
+
+Follow José Luis on Twitter @JLuis_FG
+
 # May 2021
 ### Dr. Thaddäus Tönnies – Productivity-adjusted life years lost to type 2 diabetes
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=60_B3s5gl_E&t=1477s" frameborder="0" allowfullscreen></iframe>
+
+Global Diabetes Journal Club Talk by Dr. Thaddäus Tönnies, epidemiologists at the German Diabetes Center in Düsseldorf, on productivity-adjusted life years lost due to type 2 diabetes in Germany. 
+
+He elegantly explains the illness-death model, the assumptions behind his projections and the concept of years of life lost and productivity-adjusted years of life lost.
+
+The talk is based on this [paper](https://link.springer.com/article/10.1007/s00125-021-05409-3). 
+
+He also mentions a paper about the [projected number of people with diabetes in Germany in 2040](https://onlinelibrary.wiley.com/doi/full/10.1111/dme.13902).
+
+
+Follow Dr. Tönnies on Twitter @ThaddausTonnies  
 
 # April 2021
 ### Adrian Ahne – Diabetes distress patterns based on social media data using AI methods
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=5MY72mQDm9g" frameborder="0" allowfullscreen></iframe>
+
+Global Diabetes Journal Club Talk by Adrian Ahne, PhD Student from INSERM, Epiconcept & University Paris Saclay, on identification of diabetes-related distress pattern based on social media data using artificial intelligence methods in the World Diabetes Distress Study. 
+
+The talk is based on this [paper](https://drc.bmj.com/content/8/1/e001190.long)  
+
+Follow Adrian on Twitter @Adrahne  
+
 # March 2021
 ### Dr. Suping Ling - Investigating causality between type 2 diabetes and cancer
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ir5yGAlUsl0&t=1s" frameborder="0" allowfullscreen></iframe>
+
+Global Diabetes Journal Club Talk by Dr. Suping Ling from the University of Leicester on the relation between diabetes and cancer. 
+
+The talk is based on a meta-analysis she lead and during the talk she also discuss bias analysis for unmeasured confounding.
+
+The paper can be found [here](https://care.diabetesjournals.org/content/43/9/2313)
 
 # February 2021
 ### Dr. Jason Torres - Tissue-level classification of loci associated with type 2 diabetes
@@ -30,15 +75,6 @@ output:
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=rZ7MIf71Tw4&t=1946s" frameborder="0" allowfullscreen></iframe>
 
 Global Diabetes Journal Club Talk by Dr. Jason Torres from Nuffield Department of Population Health, University of Oxford, on tissue-level classification of loci associated with type 2 diabetes.
-
-Index 
-00:00:00 - Introducing speaker
-00:01:04 - Intro: genetics & diabetes
-00:15:14 - Objective
-00:17:41 - Methods
-00:27:57 - Results
-00:40:13 - Validation study
-00:48:05 - Summary, Q&A
 
 The talk is based on [Torres et al. 2020]( https://www.cell.com/ajhg/fulltext/S0002-9297(20)30367-0)
 
