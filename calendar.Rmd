@@ -12,3 +12,23 @@ output:
     self_contained: false
 ---
 
+```{r setup, include=FALSE, echo=FALSE}
+
+library(googlesheets4)
+
+```
+
+Each month we have a new and interesting talk and discussion by an early-career diabetes researher.
+
+We regularly update the calendar.
+
+```{r reading-google-sheet, echo=FALSE}
+
+GDJC_calendar_2021 <- read_sheet("https://docs.google.com/spreadsheets/d/1UyNK6WxiKiGgvylb-WyF22r51iTMk47rUdjtEo_wG_A/edit?usp=sharing")
+
+GDJC_calendar_2021 %>% 
+  knitr::kable()
+
+
+```
+
