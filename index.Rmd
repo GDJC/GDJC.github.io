@@ -10,6 +10,23 @@ We run two main programs:
   - **GDJC Talks** One hour long Zoom meetings that comprise an article/project presentation and discussion. 
   - **Ad hoc working groups** In Summer 2020, we created two research teams, each of which is preparing a systematic review on an aspect of prevention of type 2 diabetes. 
   
+If you want stay updated, please join our mailing list [here](https://groups.google.com/g/global-diabetes-journal-club) where also announce upcoming talks and other relevant events.
+
+Follow us on Twitter [@GDiabetesJC](https://twitter.com/gdiabetesjc)
+And see previous talks on our [YouTube channel](https://www.youtube.com/channel/UCdBbu7haaggcoJqmhEx8cdg)
+
+## Upcoming talks
+### Lasse Bjerg - Multistate models in type 1 diabetes - taking the complication state into account
+
+**The talk will be at 14-15h UK time on Wednesday July 7th, 2021**
+All are welcome to join the event. Just register [here](link)
+
+![GDJC July 2021 Talk](images/july_2021_lasse.png)
+
+Lasse Bjerg is a medical doctor and researcher at the Steno Diabetes Center Aarhus. His research focus on type 1 diabetes and development of complications.
+
+His talk will be about multistate models which can offers an opportunity to model the effect of complication duration and an evolving complication burden in people with type 1 diabetes.
+
 ## Latest GDJC Talk
 ### José Luis Flores-Guerrero – Branched chain amino acids and risk of type 2 diabetes
 
