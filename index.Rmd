@@ -44,7 +44,7 @@ insert_video <- function(video_file) {
     )
 }
 
-insert_video("https://www.youtube.com/watch?v=A79LxR-D4RA")
+insert_video("https://youtu.be/A79LxR-D4RA")
 
 ```
 
