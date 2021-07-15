@@ -33,18 +33,10 @@ His talk will be about multistate models which can offers an opportunity to mode
 
 ```{r video, echo=FALSE}
 
-insert_video <- function(video_file) {
-    htmltools::tags$video(
-        htmltools::tags$source(
-            src = video_file,
-            type = "video/mp4"
-        ),
-        controls = NA,
-        width = "100%"
-    )
-}
+library("vembedr")
 
-insert_video("https://youtu.be/A79LxR-D4RA")
+embed_url("https://youtu.be/A79LxR-D4RA")
+
 
 ```
 
