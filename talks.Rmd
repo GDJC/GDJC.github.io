@@ -10,6 +10,27 @@ output:
     self_contained: false
 ---
 
+# July 2021
+### Dr. Lasse Bjerg - Multistate models in type 1 diabetes - taking the complication state into account
+
+![GDJC July 2021 Talk](images/july_2021_lasse.png)
+
+Global Diabetes Journal Club Talk by Lasse Bjerg, Postdoc at the Steno Diabetes Center Aarhus in Denmark, on multistate models on type 1 diabetes.
+
+Unfortunately, we were not able to record this session, but here is a recap of the main points.
+
+![Multistate model of type 1 diabetes complications and mortality](images/multistate_models.jfif)
+
+Multistate models are a powerful tool to understand disease transitions. However, there are some drawbacks:
+
+1. The model gets very complicated the more states that are included, 3-4 seems to be a max.
+2. The model also regard transitions as instantaneous, although this is not always be the case. Example: ok for myocardial infarction, not so for diabetic kidney disease or retinopathy.
+3. Requires a lot of longitudinal data, typically in the form of a register.
+
+The talk was based on [this paper](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyaa290/6102236?redirectedFrom=fulltext) about duration of diabetes-related complications and mortality in type 1 diabetes using Swedish register data.
+
+Follow Lasse [@bjerg_lasse](https://twitter.com/bjerg_lasse)
+
 # June 2021
 ### José Luis Flores-Guerrero – Branched chain amino acids and risk of type 2 diabetes
 
