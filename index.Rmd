@@ -21,7 +21,7 @@ And see previous talks on our [YouTube channel](https://www.youtube.com/channel/
 **The talk will be at 14-15h UK time on Wednesday August 11th, 2021**
 All are welcome to join the event. Just register [here](https://nih.zoomgov.com/meeting/register/vJItdumurjIjHg4BOxl8QsB0kSo9-qyFHUI)
 
-![GDJC July 2021 Talk](images/august_2021_tessa.png)
+![GDJC August 2021 Talk](images/august_2021_tessa.png)
 
 Dr Strain is a postdoctoral fellow in the Physical Activity Epidemiology group at the MRC Epidemiology Unit, University of Cambridge. 
 
@@ -50,4 +50,4 @@ Multistate models are a powerful tool to understand disease transitions. However
 
 The talk was based on [this paper](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyaa290/6102236?redirectedFrom=fulltext) about duration of diabetes-related complications and mortality in type 1 diabetes using Swedish register data.
 
-Follow Lasse [@bjerg_lasse](https://twitter.com/bjerg_lasse)
+Follow Lasse @[bjerg_lasse](https://twitter.com/bjerg_lasse)

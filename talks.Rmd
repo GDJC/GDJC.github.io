@@ -29,7 +29,7 @@ Multistate models are a powerful tool to understand disease transitions. However
 
 The talk was based on [this paper](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyaa290/6102236?redirectedFrom=fulltext) about duration of diabetes-related complications and mortality in type 1 diabetes using Swedish register data.
 
-Follow Lasse [@bjerg_lasse](https://twitter.com/bjerg_lasse)
+Follow Lasse @[bjerg_lasse](https://twitter.com/bjerg_lasse)
 
 # June 2021
 ### José Luis Flores-Guerrero – Branched chain amino acids and risk of type 2 diabetes
