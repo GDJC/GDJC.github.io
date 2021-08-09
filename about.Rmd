@@ -1,23 +1,14 @@
 ---
 title: "About the Global Diabetes Journal Club"
-author:
-  - name: Daniel Ibsen
-    affiliation: Steno Diabetes Center Aarhus
-    affiliation_url: https://stenoaarhus.dk
-  - name: Camille Mba
-    affiliation: MRC Epidemiology Unit
-    affiliation_url: https://www.mrc-epid.cam.ac.uk/
-  - name: Omar Silverman
-    affiliation: Steno Diabetes Center Aarhus
-    affiliation_url: https://stenoaarhus.dk
-  - name: Lauren Wedekind
-    affiliation: National Institute of Diabetes and Digestive and Kidney Diseases
-    affiliation_url: https://www.niddk.nih.gov/
-date: "`r Sys.Date()`"
 output:
   distill::distill_article:
     self_contained: false
 ---
 
-**work in progress**
+!(images/CamilleMba_GDJC_Bio.PNG)
 
+!(images/DanielIbsen_GDJC_Bio.PNG)
+
+!(images/LaurenWedekind_GDJC_Bio.PNG)
+
+!(images/OmarSilverman_GDJC_Bio.PNG)
