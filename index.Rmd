@@ -27,7 +27,7 @@ See calendar for further details.
 
 library("vembedr")
 
-embed_url("https://youtu.be/A79LxR-D4RA")
+embed_url("https://youtu.be/Dyri_pJJQZw")
 
 ```
 
