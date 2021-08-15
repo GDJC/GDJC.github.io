@@ -16,38 +16,35 @@ Follow us on Twitter @[GDiabetesJC](https://twitter.com/gdiabetesjc)
 And see previous talks on our [YouTube channel](https://www.youtube.com/channel/UCdBbu7haaggcoJqmhEx8cdg)
 
 ## Upcoming talks
-### Tessa Strain - Where do adults accumulate their physical activity? An analysis of data from 104 countries
+### To be announced soon
 
-**The talk will be at 14-15h UK time on Wednesday August 11th, 2021**
-All are welcome to join the event. Just register [here](https://nih.zoomgov.com/meeting/register/vJItdumurjIjHg4BOxl8QsB0kSo9-qyFHUI)
-
-![GDJC August 2021 Talk](images/august_2021_tessa.png)
-
-Dr Strain is a postdoctoral fellow in the Physical Activity Epidemiology group at the MRC Epidemiology Unit, University of Cambridge. 
-
-Her current research covers descriptive epidemiology and measurement methods of nationally representative physical activity surveys, the associations between physical activity and health, and the epidemiological methods used to quantify them.
-
-The talk is based on [this](https://bjsm.bmj.com/content/54/24/1488) study about levels of domain-specific physical activity at work, in the household, for travels and for leisure among 327,789 adult from 104 countries.
-
-Get ready to learn more about physical activity epidemiology.
+See calendar for further details.
 
 ## Latest GDJC Talk
-### Dr. Lasse Bjerg - Multistate models in type 1 diabetes - taking the complication state into account
+### Tessa Strain - Where do adults accumulate their physical activity? An analysis of data from 104 countries
 
-![GDJC July 2021 Talk](images/july_2021_lasse.png)
+```{r august-2021, , echo=FALSE}
 
-Global Diabetes Journal Club Talk by Lasse Bjerg, Postdoc at the Steno Diabetes Center Aarhus in Denmark, on multistate models on type 1 diabetes.
+library("vembedr")
 
-Unfortunately, we were not able to record this session, but here is a recap of the main points.
+embed_url("https://youtu.be/A79LxR-D4RA")
 
-![Multistate model of type 1 diabetes complications and mortality](images/multistate_models.jfif)
+```
 
-Multistate models are a powerful tool to understand disease transitions. However, there are some drawbacks:
+Global Diabetes Journal Club Talk by Dr. Tessa Strain, a postdoctoral fellow in the Physical Activity Epidemiology group at the MRC Epidemiology Unit, University of Cambridge, on where adults accumulate their physical activity. 
 
-1. The model gets very complicated the more states that are included, 3-4 seems to be a max.
-2. The model also regard transitions as instantaneous, although this is not always be the case. Example: ok for myocardial infarction, not so for diabetic kidney disease or retinopathy.
-3. Requires a lot of longitudinal data, typically in the form of a register.
+She provided an overview of current physical activity guidelines that focus on moderate to vigorous physical activity and thereafter discuss a study she lead on characterizing where adults from 104 different countries get the physical activity from.
 
-The talk was based on [this paper](https://academic.oup.com/ije/advance-article-abstract/doi/10.1093/ije/dyaa290/6102236?redirectedFrom=fulltext) about duration of diabetes-related complications and mortality in type 1 diabetes using Swedish register data.
+The figure below show the most recent physical activity guidelines from [WHO](https://www.who.int/activities/ensuring-sports-for-all)
 
-Follow Lasse @[bjerg_lasse](https://twitter.com/bjerg_lasse)
+![WHO physical activity guildeines](images/physical_activity_recs.jpg)
+
+The talk was based [this](https://bjsm.bmj.com/content/54/24/1488) paper published in the British Journal of Sports Medicine 
+
+During the discussion we also talk about the physical activity paradox, where greater levels of occupational physical activity should be linked to higher risk of mortality. However, this may be due to poor adjustment of relevant confounders, which [this](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00032-3/fulltext) paper suggests.
+
+Follow Dr. Tessa Strain on Twitter @tessastraining
+
+
+
+
