@@ -16,6 +16,7 @@ Each month we have a new and interesting talk and discussion by an early-career 
 
 
 ```{r reading-google-sheet, echo=FALSE}
+gs4_deauth()
 
 GDJC_calendar_2021 <- read_sheet("https://docs.google.com/spreadsheets/d/1UyNK6WxiKiGgvylb-WyF22r51iTMk47rUdjtEo_wG_A/edit?usp=sharing", range = "A1:G13")
 

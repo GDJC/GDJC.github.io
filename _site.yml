@@ -30,7 +30,7 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fab fa-github
-      href: https://rstudio.github.io/distill/website.html
+      href: https://github.com/GDJC/website
 output: 
   distill::distill_article:
     toc: true

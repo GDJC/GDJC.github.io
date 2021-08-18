@@ -7,38 +7,40 @@ Welcome to the Global Diabetes Journal Club (GDJC) website! We aim to sustain a 
 
 We run two main programs:
 
-  - **GDJC Talks** One hour long Zoom meetings that comprise an article/project presentation and discussion. 
+  - **GDJC Talks** Monthly hour-long Zoom meetings that include an article/project presentation and discussion. 
   - **Ad hoc working groups** In Summer 2020, we created two research teams, each of which is preparing a systematic review on an aspect of prevention of type 2 diabetes. 
   
 If you want stay updated, please join our mailing list [here](https://groups.google.com/g/global-diabetes-journal-club) where also announce upcoming talks and other relevant events.
 
-Follow us on Twitter [@GDiabetesJC](https://twitter.com/gdiabetesjc)
+Follow us on Twitter @[GDiabetesJC](https://twitter.com/gdiabetesjc)
 And see previous talks on our [YouTube channel](https://www.youtube.com/channel/UCdBbu7haaggcoJqmhEx8cdg)
 
 ## Upcoming talks
-### Lasse Bjerg - Multistate models in type 1 diabetes - taking the complication state into account
+### To be announced soon
 
-**The talk will be at 14-15h UK time on Wednesday July 7th, 2021**
-All are welcome to join the event. Just register [here](link)
-
-![GDJC July 2021 Talk](images/july_2021_lasse.png)
-
-Lasse Bjerg is a medical doctor and researcher at the Steno Diabetes Center Aarhus. His research focus on type 1 diabetes and development of complications.
-
-His talk will be about multistate models which can offers an opportunity to model the effect of complication duration and an evolving complication burden in people with type 1 diabetes.
+See calendar for further details.
 
 ## Latest GDJC Talk
-### José Luis Flores-Guerrero – Branched chain amino acids and risk of type 2 diabetes
+### Tessa Strain - Where do adults accumulate their physical activity? An analysis of data from 104 countries
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=A79LxR-D4RA" frameborder="0" allowfullscreen></iframe>
+```{r august-2021, , echo=FALSE}
 
-Global Diabetes Journal Club Talk by José Luis Flores-Guerrero, PhD student at the the University Medical Center Gröningen in the Netherlands, on circulating branched chain amino acids and risk of type 2 diabetes. 
+library("vembedr")
 
-He gives a detailed background of the topic, potential mechanisms that explain the relationship and discuss some of his own studies investigating branched chain amino acids and risk of type 2 diabetes based on the Dutch PREVEND cohort.
+embed_url("https://youtu.be/Dyri_pJJQZw")
 
-The talk is based on several of his papers on [type 2 diabetes](https://pubmed.ncbi.nlm.nih.gov/30518023/), [non-alcoholic fatty liver disease](https://pubmed.ncbi.nlm.nih.gov/30917546/) and [hypertension](https://pubmed.ncbi.nlm.nih.gov/31587574/).
+```
 
-During the discussion a [Mendelian randomization](https://pubmed.ncbi.nlm.nih.gov/27898682/) study was also mentioned. 
+Global Diabetes Journal Club Talk by Dr. Tessa Strain, a postdoctoral fellow in the Physical Activity Epidemiology group at the MRC Epidemiology Unit, University of Cambridge, on where adults accumulate their physical activity. 
 
+She provided an overview of current physical activity guidelines that focus on moderate to vigorous physical activity and thereafter discuss a study she lead on characterizing where adults from 104 different countries get the physical activity from.
 
-Follow José Luis on Twitter @JLuis_FG
+The figure below show the most recent physical activity guidelines from [WHO](https://www.who.int/activities/ensuring-sports-for-all)
+
+![WHO physical activity guildeines](images/physical_activity_recs.jpg)
+
+The talk was based [this](https://bjsm.bmj.com/content/54/24/1488) paper published in the British Journal of Sports Medicine 
+
+During the discussion we also talk about the physical activity paradox, where greater levels of occupational physical activity should be linked to higher risk of mortality. However, this may be due to poor adjustment of relevant confounders, which [this](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00032-3/fulltext) paper suggests.
+
+Follow Dr. Tessa Strain on Twitter @tessastraining

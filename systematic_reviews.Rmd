@@ -141,3 +141,4 @@ Incidence of type 2 diabetes
 
 ## Search methods for identification of studies  
 Databases include MEDLINE, Scopus, Embase and web of science
+=======
