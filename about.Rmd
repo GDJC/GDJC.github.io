@@ -5,6 +5,19 @@ output:
     self_contained: false
 ---
 
+## About the GDJC
+The Global Diabetes Journal Club (GDJC) brings together students, researchers and medical doctors from all over the world to discuss peer reviewed papers and issues related to any aspect of diabetes epidemiology.
+ 
+### The GDJC’s vision
+Beyond our broad mission which is to organise educational meetings to keep participants abreast of new knowledge in diabetes epidemiology, we aim to
+  - Attract and retain scientist interested in diabetes epidemiology within our network
+  - Provide a platform for networking and potential research collaborations between our members
+  - Encourage collaborative write-ups of review papers and books related to diabetes epidemiology
+ 
+Do join us for our monthly enriching and enlightening talks!
+
+## About the organizers
+
 !(images/CamilleMba_GDJC_Bio.PNG)
 
 !(images/DanielIbsen_GDJC_Bio.PNG)
