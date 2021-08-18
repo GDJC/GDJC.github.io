@@ -17,7 +17,7 @@ The Global Diabetes Journal Club encourage global collaborations as part of our 
 
 One of the systematic reviews investigates the effectiveness of using telemedicine interventions relevant for primary care setting in prevention of type 2 diabetes.
 
-The other systematic review investigates...
+The other systematic review investigates the availability and performance of risk prediction models for incident type 2 diabetes.
 
 ## Effectiveness of telemedicine in prevention of type 2 diabetes: a systematic review and meta-analysis of interventions relevant for primary care settings
 The systematic review is registered in [PROSPERO](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42020210829).
@@ -88,8 +88,57 @@ Raga Ayyagari. Mathematica Policy Research, Princeton, NJ, United States of Amer
 
 added some extra text
 
+## Risk prediction models for the incidence of type 2 diabetes: A systematic review
 
+## Review team members and their organisational affiliations
+Dr Lucy Mrema. National Institute of Medical Research- Mbeya Medical Research Centre NIMR-MMRC
+Dr Yogini V Chudasama. Leicester Real World Evidence Unit, Diabetes Research Centre, Leicester General
+Hospital, University of Leicester, Leicester, United Kingdom
+Dr Arian Malekzadeh. Medical Information Specialist
+Dr Iram Faqir Muhammad. Cardiovascular Epidemiology, Department of Clinical Sciences, Lund University,
+Malmö, Sweden
+Dr Omar Silverman-Retana. Steno Diabetes Center Aarhus, Aarhus University Hospital, Denmark
+Ms Laura Van Dongen. Amsterdam UMC, Academic Medical Centre, Department of Cardiology, University of
+Amsterdam, Amsterdam Cardiovascular Sciences
+Ms Lauren Wedekind. National Institutes of Health
 
+## Review question
+What factors are included in risk prediction models that identify incident type 2 diabetes cases, that were published 
+by 1 January 2021 (inclusive), in adult populations (aged ≥18 years), and how well do these models perform? 
+In validation studies, how do models compare across different study cohorts? 
 
+## Ojectives
+To identify studies that developed and assessed risk prediction models for the incidence of type 2 diabetes.
 
+## Specific objectives
+1. To identify original studies that developed and assessed risk prediction models for the incidence of type 2 diabetes
+   in adult populations and the variables included in each model. To compare the estimated predictive accuracy 
+   (e.g. AUC/C-statistic) and reclassification indices (e.g. net reclassification index) of the different prediction models. 
+2. To identify studies that validated risk prediction models that were developed in original studies in other cohorts,
+   and compare the estimated predictive accuracy and reclassification indices of models in validation studies to those in 
+   original studies. 
+ 
+ ## Inclusion criteria 
+Studies will be eligible when meeting the following criteria:
+1.	the study describes either the development or validation of a prediction model for the incidence of type 2 diabetes,
+2.	the population comprised individuals aged 18 years or older from the general population who did not have type 2 diabetes
+    at baseline, 
+3.  the study describes modelling and evaluation of models using data from a cohort study  ,
+4.	the study was published in English, and
+5.	the study population used for model development/validation had a minimum follow-up of one year.
 
+## Exclusion criteria
+Studies will be excluded when meeting one of the following cirteria:
+1.	the study focuses on incidence of diabetes complications or prediabetes,
+2.	the study focuses on prediction incidence of comorbidities
+3.	qualitative studies
+
+## Type of studies to be included
+Primarily cohort studies; case-cohort studies, nested case-control studies
+
+## Main outcome
+Incidence of type 2 diabetes
+
+## Search methods for identification of studies  
+Databases include MEDLINE, Scopus, Embase and web of science
+=======
