@@ -16,9 +16,11 @@ Follow us on Twitter @[GDiabetesJC](https://twitter.com/gdiabetesjc)
 And see previous talks on our [YouTube channel](https://www.youtube.com/channel/UCdBbu7haaggcoJqmhEx8cdg)
 
 ## Upcoming talks
-### To be announced soon
 
-See calendar for further details.
+Dr. Randi Johnson, Assistant Professor at the University of Colorado School of Medicine, will be giving a talk from 15-16h UK time on Mon, 13th Sep, 2021 (details pictured below). [All are welcome to register here.](https://nih.zoomgov.com/meeting/register/vJItc-yrrzsuE7GKR15wOjop7Lmt_OKoNbw)
+![Randi Johnson GDJC Talk 13 Sep 2021](images/Johnson_MetabRiskFactorsT1D_13Sep2021.PNG)
+
+See Talks > [Calendar](https://gdjc.github.io/website/calendar.html) for further details on upcoming talks.
 
 ## Latest GDJC Talk
 ### Tessa Strain - Where do adults accumulate their physical activity? An analysis of data from 104 countries
