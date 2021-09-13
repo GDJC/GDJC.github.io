@@ -28,8 +28,6 @@ She also discussed some future perspectives investigating metabotypes influenced
 
 The recording was stopped towards the end because she presented preliminary data that has not yet been peer reviewed.
 
-A core concept from the paper by Suhre et al. was that ratio measures may provide greater biological insights, and hereby lead to more relevant discoveries, when working with metabolomics data. One of the points from the discussion (not part of the recording), was that this approach may impose some statistical challenges and could lead to many false positives, as suggested by [this paper](https://www.tandfonline.com/doi/abs/10.1080/00031305.1995.10476166).
-
 Follow Dr. Randi K. Johnson on Twitter @randikjohnson
 
 # August 2021

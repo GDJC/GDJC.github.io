@@ -16,12 +16,15 @@ Follow us on Twitter @[GDiabetesJC](https://twitter.com/gdiabetesjc)
 And see previous talks on our [YouTube channel](https://www.youtube.com/channel/UCdBbu7haaggcoJqmhEx8cdg)
 
 ## Upcoming talks
+
 ### Jie Zhang - Intergenerational transmission of obesity
 
 More info coming soon.
 
 
 ## Latest GDJC Talk
+
+### Dr. Randi K. Johnson - Expanding the search for metabolomics risk factors in type 1 diabetes
 ```{r september-2021, , echo=FALSE}
 
 library("vembedr")
@@ -42,7 +45,5 @@ Paper 2: [Metabolite-wide association study in progression to type 1 diabetes](h
 She also discussed some future perspectives investigating metabotypes influenced by genes to better understand some of the important risk factors inspired by a paper by [Suhre et al. 2016](https://pubmed.ncbi.nlm.nih.gov/26432701/).
 
 The recording was stopped towards the end because she presented preliminary data that has not yet been peer reviewed.
-
-A core concept from the paper by Suhre et al. was that ratio measures may provide greater biological insights, and hereby lead to more relevant discoveries, when working with metabolomics data. One of the points from the discussion (not part of the recording), was that this approach may impose some statistical challenges and could lead to many false positives, as suggested by [this paper](https://www.tandfonline.com/doi/abs/10.1080/00031305.1995.10476166).
 
 Follow Dr. Randi K. Johnson on Twitter @randikjohnson
