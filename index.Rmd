@@ -16,39 +16,33 @@ Follow us on Twitter @[GDiabetesJC](https://twitter.com/gdiabetesjc)
 And see previous talks on our [YouTube channel](https://www.youtube.com/channel/UCdBbu7haaggcoJqmhEx8cdg)
 
 ## Upcoming talks
-### Randi K. Johnson - Expanding the search for metabolomocs risk factors in type 1 diabetes
+### Jie Zhang - Intergenerational transmission of obesity
 
-We are pleased to announce the details of the next GDJC Talk. This time we have Assistant Professor Randi K Johnson from the University of Colorado School of Medicine to talk about the use of metabolomics in identifying new risk factors in type 1 diabetes.
-
-The talk will be on Monday, 13th September, 15-16h UK time.
-
-[Click here](https://nih.zoomgov.com/meeting/register/vJItc-yrrzsuE7GKR15wOjop7Lmt_OKoNbw) to register for the talk. 
-
-![](images/september_2021_randi.png)
-
+More info coming soon.
 
 
 ## Latest GDJC Talk
-### Tessa Strain - Where do adults accumulate their physical activity? An analysis of data from 104 countries
-
-```{r august-2021, , echo=FALSE}
+```{r september-2021, , echo=FALSE}
 
 library("vembedr")
 
-embed_url("https://youtu.be/Dyri_pJJQZw")
+
+embed_url("https://youtu.be/n0LnN0aT26g")
 
 ```
 
-Global Diabetes Journal Club Talk by Dr. Tessa Strain, a postdoctoral fellow in the Physical Activity Epidemiology group at the MRC Epidemiology Unit, University of Cambridge, on where adults accumulate their physical activity. 
+Global Diabetes Journal Club Talk by Dr. Randi K. Johnson, an Assistant Professor from the University of Colorado School of Medicine, on the use of metabolomics in the search for new risk factors for type 1 diabetes.
 
-She provided an overview of current physical activity guidelines that focus on moderate to vigorous physical activity and thereafter discuss a study she lead on characterizing where adults from 104 different countries get the physical activity from.
+She gave an overview of what metabolomics is about, what type 1 diabetes is, risk factors for type 1 diabetes, and provided examples of her previous work using metabolomics to investigate dietary pattern in progression to type 1 diabetes.
 
-The figure below show the most recent physical activity guidelines from [WHO](https://www.who.int/activities/ensuring-sports-for-all)
+Paper 1: [Metabolome-wide association study in mAb+ risk](https://pubmed.ncbi.nlm.nih.gov/31616039/)
 
-![WHO physical activity guildeines](images/physical_activity_recs.jpg)
+Paper 2: [Metabolite-wide association study in progression to type 1 diabetes](https://pubmed.ncbi.nlm.nih.gov/32686271/)
 
-The talk was based [this](https://bjsm.bmj.com/content/54/24/1488) paper published in the British Journal of Sports Medicine 
+She also discussed some future perspectives investigating metabotypes influenced by genes to better understand some of the important risk factors inspired by a paper by [Suhre et al. 2016](https://pubmed.ncbi.nlm.nih.gov/26432701/).
 
-During the discussion we also talk about the physical activity paradox, where greater levels of occupational physical activity should be linked to higher risk of mortality. However, this may be due to poor adjustment of relevant confounders, which [this](https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(21)00032-3/fulltext) paper suggests.
+The recording was stopped towards the end because she presented preliminary data that has not yet been peer reviewed.
 
-Follow Dr. Tessa Strain on Twitter @tessastraining
+A core concept from the paper by Suhre et al. was that ratio measures may provide greater biological insights, and hereby lead to more relevant discoveries, when working with metabolomics data. One of the points from the discussion (not part of the recording), was that this approach may impose some statistical challenges and could lead to many false positives, as suggested by [this paper](https://www.tandfonline.com/doi/abs/10.1080/00031305.1995.10476166).
+
+Follow Dr. Randi K. Johnson on Twitter @randikjohnson

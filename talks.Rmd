@@ -5,12 +5,37 @@ output:
   distill::distill_article:
     self_contained: false
 ---
+# September 2021
+### Dr. Randi K. Johnson - Expanding the search for metabolomics risk factors in type 1 diabetes
+
+```{r september-2021, , echo=FALSE}
+
+library("vembedr")
+
+embed_url("https://youtu.be/n0LnN0aT26g")
+
+```
+
+Global Diabetes Journal Club Talk by Dr. Randi K. Johnson, an Assistant Professor from the University of Colorado School of Medicine, on the use of metabolomics in the search for new risk factors for type 1 diabetes.
+
+She gave an overview of what metabolomics is about, what type 1 diabetes is, risk factors for type 1 diabetes, and provided examples of her previous work using metabolomics to investigate dietary pattern in progression to type 1 diabetes.
+
+Paper 1: [Metabolome-wide association study in mAb+ risk](https://pubmed.ncbi.nlm.nih.gov/31616039/)
+
+Paper 2: [Metabolite-wide association study in progression to type 1 diabetes](https://pubmed.ncbi.nlm.nih.gov/32686271/)
+
+She also discussed some future perspectives investigating metabotypes influenced by genes to better understand some of the important risk factors inspired by a paper by [Suhre et al. 2016](https://pubmed.ncbi.nlm.nih.gov/26432701/).
+
+The recording was stopped towards the end because she presented preliminary data that has not yet been peer reviewed.
+
+A core concept from the paper by Suhre et al. was that ratio measures may provide greater biological insights, and hereby lead to more relevant discoveries, when working with metabolomics data. One of the points from the discussion (not part of the recording), was that this approach may impose some statistical challenges and could lead to many false positives, as suggested by [this paper](https://www.tandfonline.com/doi/abs/10.1080/00031305.1995.10476166).
+
+Follow Dr. Randi K. Johnson on Twitter @randikjohnson
+
 # August 2021
 ### Dr. Tessa Strain - Where do adults accumulate their physical activity? An analysis of data from 104 countries
 
 ```{r august-2021, , echo=FALSE}
-
-library("vembedr")
 
 embed_url("https://youtu.be/Dyri_pJJQZw")
 
@@ -55,8 +80,6 @@ Follow Lasse @[bjerg_lasse](https://twitter.com/bjerg_lasse)
 ### José Luis Flores-Guerrero – Branched chain amino acids and risk of type 2 diabetes
 
 ```{r june-2021, , echo=FALSE}
-
-library("vembedr")
 
 embed_url("https://youtu.be/A79LxR-D4RA")
 
