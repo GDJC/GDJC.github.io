@@ -5,12 +5,37 @@ output:
   distill::distill_article:
     self_contained: false
 ---
+# October 2021
+
+### Phd Stud. Jie Zhang - Intergenerational transmission of obesity
+
+```{r october-2021, echo=FALSE}
+
+library("vembedr")
+
+embed_url("https://youtu.be/IVTr6Xzhqhg")
+
+```
+
+Global Diabetes Journal Club Talk by Jie Zhang, a PhD student from the the Department of Public Health, Aarhus University, Denmark, on BMI in parents and their adult offspring.
+
+She presented preliminary findings from a systematic review and meta-analysis she is working on. The main finding was that there is an association between parent BMI and their adult offspring's BMI, meaning that if the parent's BMI is high, then it is more likely that their children's BMI is also higher. 
+
+![Jie's overview of the relation between intergenerational transmission of obesity](images/october_2021_jie_framework.png)
+
+Another key finding was that there was virtually no difference between the mother-offspring and father-offspring association, suggesting that the intrauterine effect (see figure above) may not be as strong, as previously suggested. 
+
+We look forward to see the published results of this very interesting work in the near future.
+
+
+Follow Jie Zhang on Twitter @EvelynZ31667894
+
 # September 2021
 ### Dr. Randi K. Johnson - Expanding the search for metabolomics risk factors in type 1 diabetes
 
-```{r september-2021, , echo=FALSE}
+```{r september-2021, echo=FALSE}
 
-library("vembedr")
+
 
 embed_url("https://youtu.be/n0LnN0aT26g")
 
