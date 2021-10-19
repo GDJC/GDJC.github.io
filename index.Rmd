@@ -17,10 +17,17 @@ And see previous talks on our [YouTube channel](https://www.youtube.com/channel/
 
 ## Upcoming talks
 
-### Leo Martinez - TBA
+### Assistant Professor, Leo Martinez - Glycemic trajectories after tuberculosis diagnosis
 
-More info coming soon.
+Assistant Professor Leo Martinez from the Department of Epidemiology at Boston University, Boston, Massachusetts, USA, will talk about his research on how a diagnosis of tuberculosis links with development of diabetes. 
 
+Register for the talk [here](https://bit.ly/3AQWAFj)
+
+![November GDJC Talk](images/november_2021_leo.png)
+
+
+
+A recent [paper](https://doi.org/10.1164/rccm.202007-2634OC) from his group investigated glucose trajectories in patients with newly diagnosed tuberculosis in Eastern China and concluded "Among patients with tuberculosis without diabetes, glycemic changes were common and may represent an important marker for patient response to tuberculosis treatment"
 
 ## Latest GDJC Talk
 
