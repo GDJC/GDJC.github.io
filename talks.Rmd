@@ -5,13 +5,29 @@ output:
   distill::distill_article:
     self_contained: false
 ---
+# November 2021
+
+### Assistant Professor, Leo Martinez - Glycemic trajectories after tuberculosis diagnosis
+
+```{r november-2021, echo=FALSE}
+
+library("vembedr")
+
+embed_url("https://youtu.be/BR98xdpvT5Q")
+
+```
+
+Global Diabetes Journal Club Talk by Assistant Professor Leo Martinez from the Department of Epidemiology at Boston University, Boston, Massachusetts, USA, on how a diagnosis of tuberculosis links with development of diabetes.
+
+A recent [paper](https://doi.org/10.1164/rccm.202007-2634OC) from his group investigated glucose trajectories in patients with newly diagnosed tuberculosis in Eastern China and concluded "Among patients with tuberculosis without diabetes, glycemic changes were common and may represent an important marker for patient response to tuberculosis treatment"
+
+Follow Asst. Prof. Leo Martinez on Twitter @LeoMarti_EpiTB
+
 # October 2021
 
 ### Phd Stud. Jie Zhang - Intergenerational transmission of obesity
 
 ```{r october-2021, echo=FALSE}
-
-library("vembedr")
 
 embed_url("https://youtu.be/IVTr6Xzhqhg")
 
