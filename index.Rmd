@@ -17,7 +17,13 @@ And see previous talks on our [YouTube channel](https://www.youtube.com/channel/
 
 ## Upcoming talks
 
-There will not be a talk in December 2021. We have decided to use the time to prepare an excellent new line-up of speakers for 2022. The organizers very much look to see you all next year. 
+### Research Associate, Alisa Kjaergard - Mendelian randomization: causal inference without intervention
+
+The February 2022 talk is all about Mendelian randomization. Dr. Kjaergaard will introduce the concepts of Mendelian Randomization and use examples from her own work within the field of diabetes and endocrinology.
+
+This talk is very relevant to those new to the topic of Mendelian Randomization or want to refresh and stay up to date with recent developments.
+
+Her most recent published studies include Mendelian Randomization and regular observational studies investigating the link between [obesity and kidney funtion](https://academic.oup.com/clinchem/advance-article-abstract/doi/10.1093/clinchem/hvab249/6469631?redirectedFrom=fulltext&login=false), [thyroid function and sex hormones](https://link.springer.com/article/10.1007%2Fs10654-021-00721-z) and [homocysteine and female fertility](https://www.nature.com/articles/s41430-021-00898-2).
 
 ## Latest GDJC Talk
 
