@@ -14,15 +14,24 @@ library(googlesheets4)
 
 Each month we have a new and interesting talk and discussion by an early-career diabetes researcher.
 
+As a new thing we have decided to end the year with a round-table discussion of the topics from the 2022 GDJC. This is to recap some of the best points made and add to answered and unanswered questions raised during the talks.
+
 
 ```{r reading-google-sheet, echo=FALSE}
 gs4_deauth()
 
-GDJC_calendar_2021 <- read_sheet("https://docs.google.com/spreadsheets/d/1UyNK6WxiKiGgvylb-WyF22r51iTMk47rUdjtEo_wG_A/edit?usp=sharing", range = "A1:G13")
+GDJC_calendar_2022 <- read_sheet("https://docs.google.com/spreadsheets/d/1f2aJ1JcbD4IyR_xBz6_TFFnstDo56gai_Luw1J4WVac/edit?usp=sharing", range = "A1:G13")
 
-GDJC_calendar_2021 %>% 
+GDJC_calendar_2022 %>% 
   knitr::kable()
 
 
 ```
+
+
+
+
+
+
+
 
