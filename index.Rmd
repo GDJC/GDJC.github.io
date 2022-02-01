@@ -17,11 +17,13 @@ And see previous talks on our [YouTube channel](https://www.youtube.com/channel/
 
 ## Upcoming talks
 
-### Research Associate, Alisa Kjaergard - Mendelian randomization: causal inference without intervention
+### Research Associate, Alisa Kjaergard - Mendelian randomization: causal inference without intervention?
 
 The February 2022 talk is all about Mendelian randomization. Dr. Kjaergaard will introduce the concepts of Mendelian Randomization and use examples from her own work within the field of diabetes and endocrinology.
 
-**Register for the talk February 23, 13-14 UK time [here](insert link)**
+**Register for the talk February 23, 13-14 UK time [here](https://nih.zoomgov.com/meeting/register/vJItfuqppzgvGDXsNnv6YZuQIsmy5d1Fmzk)**
+
+![February 2022 GDJC Talk](images/february_2022_alisa.png)
 
 This talk is very relevant to those new to the topic of Mendelian Randomization or want to refresh and stay up to date with recent developments.
 
