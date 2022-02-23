@@ -25,7 +25,7 @@ The February 2022 talk is all about Mendelian randomization. Dr. Kjaergaard will
 
 ![February 2022 GDJC Talk](images/february_2022_alisa.png)
 
-This talk is very relevant to those new to the topic of Mendelian Randomization or want to refresh and stay up to date with recent developments.
+This talk is very relevant to those new to the topic of Mendelian Randomization.
 
 Her most recent published studies include Mendelian Randomization and regular observational studies investigating the link between [obesity and kidney funtion](https://academic.oup.com/clinchem/advance-article-abstract/doi/10.1093/clinchem/hvab249/6469631?redirectedFrom=fulltext&login=false), [thyroid function and sex hormones](https://link.springer.com/article/10.1007%2Fs10654-021-00721-z) and [homocysteine and female fertility](https://www.nature.com/articles/s41430-021-00898-2).
 
