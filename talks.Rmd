@@ -5,6 +5,27 @@ output:
   distill::distill_article:
     self_contained: false
 ---
+
+# February 2022
+
+### Research Associate, Alisa Kjaergaard - Mendelian randomization: causal inference without intervention?
+
+```{r february-2022, echo=FALSE}
+
+library("vembedr")
+
+embed_url("https://youtu.be/_lZdkg_yNqw")
+
+```
+
+Global Diabetes Journal Club Talk by Research Associate Alisa Kjaergaard from the Steno Diabetes Center Aarhus, Aarhus, Denmark, on Mendelian randomization with examples related to diabetes research. Dr. Kjaergaard gave an introduction to the key concepts of Mendelian Randomization. Indeed, this talk is very relevant to those new to the topic of Mendelian Randomization.
+
+Her most recent published studies include Mendelian Randomization and regular observational studies investigating the link between [obesity and kidney funtion](https://academic.oup.com/clinchem/advance-article-abstract/doi/10.1093/clinchem/hvab249/6469631?redirectedFrom=fulltext&login=false), [thyroid function and sex hormones](https://link.springer.com/article/10.1007%2Fs10654-021-00721-z) and [homocysteine and female fertility](https://www.nature.com/articles/s41430-021-00898-2).
+
+During the Q&A, which was not recorded, we also the use of causal language, the issue with pleiotropy in two-sample Mendelian randomization and issues with using machine learning methods to identify a large number of genetic polymorphisms associated with an exposure of interest.  
+
+For more information about Dr. Kjaergaard follow this [link](https://www.stenoaarhus.dk/kontakt/Alisa-Kjaergaard/)
+
 # November 2021
 
 ### Assistant Professor, Leo Martinez - Glycemic trajectories after tuberculosis diagnosis
