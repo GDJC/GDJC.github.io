@@ -17,30 +17,26 @@ And see previous talks on our [YouTube channel](https://www.youtube.com/channel/
 
 ## Upcoming talks
 
-### Anthony Muchai Manyara
-
-We are delighted to invite Anthony Muchai Manyara, who recently defended his PhD thesis at the University of Glasgow, to give our March 2022 GDJC Talk. Dr. Manyara will discuss his research on comparing risk factors between people with type 2 diabetes and matched controls in Nairobi, Kenya. 
-
-This talk will take place on Wed, 23rd March, 2022 at 13-14h UK time: [please register here to get the calendar reminder and Zoom link.](https://nih.zoomgov.com/meeting/register/vJItcuuvrTgqGQlL1qB-k_s1tjM2AvDR2I4). Details and bio for Dr. Manyara are pictured below.
-
-![MuchaiManyara_T2DRiskFactors_23Mar2022](images/Manyara_RiskFactorsT2DKenya_23Mar2022.JPG)
+To be announced soon.
 
 ## Latest GDJC Talk
 
-### Research Associate, Alisa Kjaergaard - Mendelian randomization: causal inference without intervention?
+### Anthony Muchai Manyara - Comparison of risk factors between people with and without type 2 diabetes in Nairobi
 
-```{r february-2022, echo=FALSE}
+```{r march-2022, echo=FALSE}
 
 library("vembedr")
 
-embed_url("https://youtu.be/_lZdkg_yNqw")
+embed_url("https://youtu.be/s1j_b-yfUBM")
 
 ```
 
-Global Diabetes Journal Club Talk by Research Associate Alisa Kjaergaard from the Steno Diabetes Center Aarhus, Aarhus, Denmark, on Mendelian randomization with examples related to diabetes research. Dr. Kjaergaard gave an introduction to the key concepts of Mendelian Randomization. Indeed, this talk is very relevant to those new to the topic of Mendelian Randomization.
+Dr. Anthony Muchai Manyara from the University of Glasgow, gave our March 2022 GDJC Talk on the topic of risk factors in people with and without type 2 diabetes in Nairobi, Africa. The talk was based on [this paper](https://onlinelibrary.wiley.com/doi/10.1111/tmi.13629). 
 
-Her most recent published studies include Mendelian Randomization and regular observational studies investigating the link between [obesity and kidney funtion](https://academic.oup.com/clinchem/advance-article-abstract/doi/10.1093/clinchem/hvab249/6469631?redirectedFrom=fulltext&login=false), [thyroid function and sex hormones](https://link.springer.com/article/10.1007%2Fs10654-021-00721-z) and [homocysteine and female fertility](https://www.nature.com/articles/s41430-021-00898-2).
+During the Q&A, which was not recorded, the discussion focused on how the controls were sampled and potential issues with this. Although the method for doing this in the study was not ideal (asking cases, people with type 2 diabetes, to bring a friend of similar age and sex), there was also a practical consideration that this was deemed the best way of recruiting controls under the circumstances. 
 
-During the Q&A, which was not recorded, we also the use of causal language, the issue with pleiotropy in two-sample Mendelian randomization and issues with using machine learning methods to identify a large number of genetic polymorphisms associated with an exposure of interest.  
+The study also revealed some interesting findings regarding differences in grip strengths and central adiposity between those with and without type 2 diabetes.
 
-For more information about Dr. Kjaergaard follow this [link](https://www.stenoaarhus.dk/kontakt/Alisa-Kjaergaard/)
+All in all, the study points to some risk factors like grip strength and central adiposity as being important to monitor in this setting prospective studies are needed to investigate these further.
+
+

@@ -6,6 +6,26 @@ output:
     self_contained: false
 ---
 
+# March 2022
+
+### Anthony Muchai Manyara - Comparison of risk factors between people with and without type 2 diabetes in Nairobi
+
+```{r march-2022, echo=FALSE}
+
+library("vembedr")
+
+embed_url("https://youtu.be/s1j_b-yfUBM")
+
+```
+
+Dr. Anthony Muchai Manyara from the University of Glasgow, gave our March 2022 GDJC Talk on the topic of risk factors in people with and without type 2 diabetes in Nairobi, Africa. The talk was based on [this paper](https://onlinelibrary.wiley.com/doi/10.1111/tmi.13629). 
+
+The discussion after the talk focused on how the controls were sampled and potential issues with this. Although the methods for doing this in the study was not ideal (asking participants to bring a frend of similar age and sex), there was also a practical consideration that this was deemed the best way of recruiting controls under the circumstances. 
+
+The study also revealed some interesting findings regarding differences in grip strengths and central adiposity between those with and without type 2 diabetes.
+
+All in all, the study points to some risk factors like grip strength and central adiposity as being important to monitor in this setting prospective studies are needed to investigate these further.
+
 # February 2022
 
 ### Research Associate, Alisa Kjaergaard - Mendelian randomization: causal inference without intervention?
