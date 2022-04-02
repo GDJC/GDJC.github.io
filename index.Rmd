@@ -31,7 +31,7 @@ embed_url("https://youtu.be/s1j_b-yfUBM")
 
 ```
 
-Dr. Anthony Muchai Manyara from the University of Glasgow, gave our March 2022 GDJC Talk on the topic of risk factors in people with and without type 2 diabetes in Nairobi, Africa. The talk was based on [this paper](https://onlinelibrary.wiley.com/doi/10.1111/tmi.13629). 
+Dr. Anthony Muchai Manyara from the University of Glasgow, gave our March 2022 GDJC Talk on the topic of risk factors in people with and without type 2 diabetes in Nairobi, Kenya. The talk was based on [this paper](https://onlinelibrary.wiley.com/doi/10.1111/tmi.13629). 
 
 During the Q&A, which was not recorded, the discussion focused on how the controls were sampled and potential issues with this. Although the method for doing this in the study was not ideal (asking cases, people with type 2 diabetes, to bring a friend of similar age and sex), there was also a practical consideration that this was deemed the best way of recruiting controls under the circumstances. 
 
