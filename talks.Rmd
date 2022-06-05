@@ -5,6 +5,26 @@ output:
   distill::distill_article:
     self_contained: false
 ---
+# May 2022
+
+### Dr. Gabriela Carrillo Balam - Sex differences in diabetes and depression
+
+```{r may-2022, echo=FALSE}
+
+library("vembedr")
+
+embed_url("https://youtu.be/4plc-A0eMaA")
+
+```
+
+Dr. Carrillo gave a talk about her ongoing study showing some interesting differences in the prevalence of diabetes and depression in Mexican men and women. Note, the study is not yet published, meaning that the results have yet to be peer reviewed. We will give an update, when the study has been published. 
+
+The study was based on data from the Mexican National Health and Nutrition Survey 2018-2019 and the study protocol was pre-registered [here](https://osf.io/g3bsk)
+
+In the talk she describes the overlapping etiology of diabetes and depression within biological, environmental, social and behavioral aspects. 
+
+The key findings in the study was that women had a higher prevalence of diabetes than men and women also had a higher prevalence of depression than men. In particular, their interaction analysis suggested that there was an additive interaction. Meaning that women with diabetes was more likely to have depression above what is expected based on having diabetes or being a women alone. 
+
 # April 2022
 
 ### Dr. Cassie Mitchell and Statistician Emma Stinson - Metabolic responses to a mixed meal tolerance test in individuals at risk of type 2 diabetes

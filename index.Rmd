@@ -17,37 +17,27 @@ And see previous talks on our [YouTube channel](https://www.youtube.com/channel/
 
 ## Upcoming talks
 
-### Dr. Gabriela Carrillo Balam - Sex differences in diabetes and depression
-Dr. Gabriela Carrillo Balam will give our May GDJC Talk on the topic of sex differences in diabetes and depression. She will present findings from the Mexican National Health and Nutrition Survey 2018-2019.
+### Lauren Wedekind - TBA
+The next GDJC Talk will be from Lauren Wedekind, one of the GDJC organizers, given a talk that summarizes parts of the her PhD project that she is soon defending. 
 
-Sign up for the talk [here](https://nih.zoomgov.com/meeting/register/vJIsdOygrj0uHe2p4Acu4thMPpcnjlPDr30)
-
-![May 2022 GDJC Talk](images/may_2022_gaby.png)
-
-For more upcoming talks go [here](https://gdjc.github.io/website/calendar.html)
+Link to registration will come soon.
 
 ## Latest GDJC Talk
 
-### Dr. Cassie Mitchell and Statistician Emma Stinson - Metabolic responses to a mixed meal tolerance test in individuals at risk of type 2 diabetes
+### Dr. Gabriela Carrillo Balam - Sex differences in diabetes and depression
 
-```{r april-2022, echo=FALSE}
+```{r may-2022, echo=FALSE}
 
 library("vembedr")
 
-embed_url("https://youtu.be/6Zp7l9Ayv94")
+embed_url("https://youtu.be/4plc-A0eMaA")
 
 ```
 
-[Dr. Cassie Mitchell, PhD, RD (postdoctoral fellow)](https://www.researchgate.net/profile/Cassie-Mitchell) and [Emma Stinson, MPH (statistician)](https://www.researchgate.net/profile/Emma-Stinson) at [NIH/NIDDK Phoenix Epidemiology and Clinical Research Branch](https://www.niddk.nih.gov/research-funding/at-niddk/labs-branches/phoenix-epidemiology-clinical-research-branch) jointly presented their work on metabolic responses to a mixed meal tolerance test in individuals at risk of type 2 diabetes. 
+Dr. Carrillo gave a talk about her ongoing study showing some interesting differences in the prevalence of diabetes and depression in Mexican men and women. Note, the study is not yet published, meaning that the results have yet to be peer reviewed. We will give an update, when the study has been published. 
 
-In their study, they compared the association between different metrics, such as the area under the curve, from the oral glucose tolerance test or a mixed meal tolerance test and risk of type 2 diabetes. 
+The study was based on data from the Mexican National Health and Nutrition Survey 2018-2019 and the study protocol was pre-registered [here](https://osf.io/g3bsk)
 
-In the Q&A there were several interesting questions. Firstly, it is worth noting that the population in this study were relatively young (mean age about 26 years) and were all mostly indigenous populations which are known to have a higher genetic predisposition to develop type 2 diabetes. This may make it hard to compare the results to other populations. Overall, the oral glucose tolerance test provided greater absolute glucose values due to a higher dose compared to the mixed meal. The mixed meal may not stress the system in a similar way and hence may not be able to detect early stages of risk. 
+In the talk she describes the overlapping etiology of diabetes and depression within biological, environmental, social and behavioral aspects. 
 
-On the other hand, a mixed meal challenge may be easier to handle for the participants. The mixed meal used here consisted of 40 energy from carbohydrates, 40% from fat and 20% from protein. The total energy contribution was 33% of total daily energy need. One issue with the mixed meal is, however, that it is hard to standardize across studies because there is no consensus on the composition or which foods to use. 
-
-One of the advantages of using a mixed meal challenge is that is may reveal other metabolic dysfunctions than only glucose which the oral glucose tolerance test is designed for. However, more research from this project will cast light on this question. 
-
-Lastly, future investigations of this dataset will look at various other measures of the glucose curves to examine other differences between the mixed meal challenge and oral glucose tolerance test.
-
-
+The key findings in the study was that women had a higher prevalence of diabetes than men and women also had a higher prevalence of depression than men. In particular, their interaction analysis suggested that there was an additive interaction. Meaning that women with diabetes was more likely to have depression above what is expected based on having diabetes or being a women alone. 
