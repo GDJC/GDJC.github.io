@@ -5,6 +5,15 @@ output:
   distill::distill_article:
     self_contained: false
 ---
+# June 2022
+
+### Dr. Lauren Wedekind - Investigating the relationship between birth weight and type 2 diabetes
+Our June GDJC Talk, marking 3 years since our first one, was given by Lauren Wedekind, one of our GDJC organizers. 
+
+Lauren shared work from her PhD research on diabetes and birth weight and summarized some previous work that inspired it. This talk was specifically designed to be accessible to all: she used terms that those without formal training in diabetes or epidemiology can better understand. 
+
+**Video coming soon**
+
 # May 2022
 
 ### Dr. Gabriela Carrillo Balam - Sex differences in diabetes and depression
