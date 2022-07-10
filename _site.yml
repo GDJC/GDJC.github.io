@@ -13,8 +13,10 @@ navbar:
       href: index.html
     - text: "Talks"
       menu:
-        - text: "GDJC Talks"
-          href: talks.html
+        - text: "2022 GDJC Talks"
+          href: talks_2022.html
+        - text: "2021 GDJC Talks"
+          href: talks_2021.html
         - text: "Calendar"
           href: calendar.html
         - text: "Want to give a talk"
