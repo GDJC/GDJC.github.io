@@ -31,4 +31,10 @@ Our June GDJC Talk, marking 3 years since our first one, was given by Lauren Wed
 
 Lauren shared work from her PhD research on diabetes and birth weight and summarized some previous work that inspired it. This talk was specifically designed to be accessible to all: she used terms that those without formal training in diabetes or epidemiology can better understand. 
 
-**Video coming soon**
+```{r june-2022, echo=FALSE}
+
+library("vembedr")
+
+embed_url("https://youtu.be/XTW3ZAz2EuA")
+
+```
