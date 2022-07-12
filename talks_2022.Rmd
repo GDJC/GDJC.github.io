@@ -10,7 +10,7 @@ output:
 
 ### Dr. Lauren Wedekind - Investigating the relationship between birth weight and type 2 diabetes
 
-```{r may-2022, echo=FALSE}
+```{r june-2022, echo=FALSE}
 
 library("vembedr")
 
