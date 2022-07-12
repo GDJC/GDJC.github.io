@@ -19,7 +19,7 @@ navbar:
           href: talks_2021.html
         - text: "Calendar"
           href: calendar.html
-        - text: "Want to give a talk"
+        - text: "Want to give a talk?"
           href: want_to_give_a_talk.html
     - text: "Ongoing projects"
       menu:
