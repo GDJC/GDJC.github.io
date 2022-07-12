@@ -3,7 +3,7 @@ title: "Global Diabetes Journal Club"
 site: distill::distill_website
 ---
 
-Welcome to the Global Diabetes Journal Club (GDJC) website! We aim to sustain a collegial, accessible platform for diabetes researchers, health care providers and the public to connect and learn about recent research across nutritional, clinical and genetic epidemiology as they apply to diabetes. We are especially committed to supporting early-career researchers interested in diabetes epidemiology. Our members have joined GDJC meetings from 6 continents. 
+Welcome to the Global Diabetes Journal Club (GDJC) website! We aim to sustain a collegial, accessible platform for diabetes researchers, health care providers and the public to connect and learn about recent research across nutritional, clinical and genetic epidemiology as they apply to diabetes. We are committed to supporting early-career researchers interested in diabetes epidemiology. Our members have joined GDJC meetings from 6 continents. 
 
 We run two main programs:
 
@@ -18,7 +18,7 @@ Follow us on Twitter @[GDiabetesJC](https://twitter.com/gdiabetesjc) and view ou
 
 ### July 2022 - Neftali Eduardo Antonio-Villa, MD - Sociodemographic inequalities in diabetes subgroups in Mexico and USA: a data-driven individual and epidemiological perspective
 
-We are delighted to welcome [Dr. Neftali Eduardo Antonio-Villa](https://loop.frontiersin.org/people/1092901/overview) (UNAM), who is concluding his PhD training at the National Autonomous University of Mexico. Formally trained in clinical medicine, he is interested in the impact of social inequalities on cardiometabolic disease outcomes in Mexico, and more broadly, Latin American populations. Dr. Antonio-Villa will speak about sociodemographic inequalities in people with diabetes in Mexico and the US.
+We are delighted to welcome [Dr. Neftali Eduardo Antonio-Villa](https://loop.frontiersin.org/people/1092901/overview), who is concluding his PhD training at the National Autonomous University of Mexico (UNAM). Formally trained in clinical medicine, he is interested in the impact of social inequalities on cardiometabolic disease outcomes in Mexico, and more broadly, Latin American populations. Dr. Antonio-Villa will speak about sociodemographic inequalities in people with diabetes in Mexico and the US.
 
 This talk will take place on Wed, 13th July, from 14.00-15.00 (UK time; details pictured below). Please [register here](https://nih.zoomgov.com/meeting/register/vJItcuysqjgjHL9XjO5YXuoXI8hktgU4KjY).
 
@@ -27,13 +27,8 @@ This talk will take place on Wed, 13th July, from 14.00-15.00 (UK time; details 
 ## Latest GDJC Talk
 
 ### June 2022 - Dr. Lauren Wedekind - Investigating the relationship between birth weight and type 2 diabetes
-```{r may-2022, echo=FALSE}
 
-library("vembedr")
-
-embed_url("https://youtu.be/XTW3ZAz2EuA")
-
-```
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XTW3ZAz2EuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Our June GDJC Talk, marking 3 years since our first one, was given by Lauren Wedekind, one of our GDJC organizers. Lauren shared work from her PhD research on diabetes and birth weight and summarized some previous work that inspired it. Themes she reviewed included the Developmental Origins of Health and Disease (DOHaD) hypothesis, the foetal insulin hypothesis, and the genetic and non-genetic influences on the relationship between birth weight and diabetes (which in some study populations has been found to be U-shaped). She summarized her work on genome-wide association studies of birth weight and using clinical and genetic information to predict incident diabetes: click [here](https://scholar.google.com/citations?user=fsXJ8RkAAAAJ&hl=en) for more articles and abstracts she has co-authored on these topics.
 
