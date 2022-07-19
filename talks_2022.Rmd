@@ -9,10 +9,15 @@ output:
 # June 2022
 
 ### Dr. Lauren Wedekind - Investigating the relationship between birth weight and type 2 diabetes
-Our June GDJC Talk, marking 3 years since our first one, was given by Lauren Wedekind, one of our GDJC organizers. 
 
-Lauren shared work from her PhD research on diabetes and birth weight and summarized some previous work that inspired it. This talk was specifically designed to be accessible to all: she used terms that those without formal training in diabetes or epidemiology can better understand. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XTW3ZAz2EuA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+Our June GDJC Talk, marking 3 years since our first one, was given by Lauren Wedekind, one of our GDJC organizers. Lauren shared work from her PhD research on diabetes and birth weight and summarized some previous work that inspired it. Themes she reviewed included the Developmental Origins of Health and Disease (DOHaD) hypothesis, the foetal insulin hypothesis, and the genetic and non-genetic influences on the relationship between birth weight and diabetes (which in some study populations has been found to be U-shaped). She summarized her work on genome-wide association studies of birth weight and using clinical and genetic information to predict incident diabetes: click [here](https://scholar.google.com/citations?user=fsXJ8RkAAAAJ&hl=en) for more articles and abstracts she has co-authored on these topics.
+
+Lauren used this talk as a practice presentation for her PhD thesis defense, which was closed to the public, so she invited friends, family and colleagues. Thus, this talk was specifically designed to be accessible to all, and used terms that those without formal training in diabetes or epidemiology can better understand. If you are interested in giving a practice presentation with us through our GDJC Talks platform, click on our ["Want to give a talk?" tab](https://gdjc.github.io/website/want_to_give_a_talk.html).
+
+<<<<<<< HEAD
 ```{r june-2022, echo=FALSE}
 
 library("vembedr")
@@ -20,6 +25,8 @@ library("vembedr")
 embed_url("https://youtu.be/XTW3ZAz2EuA")
 
 ```
+=======
+>>>>>>> ba7421780f65ab5c0026546563de2f7fde0b3ff4
 
 # May 2022
 
