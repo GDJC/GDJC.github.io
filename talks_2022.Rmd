@@ -6,9 +6,25 @@ output:
     self_contained: false
 ---
 
+# July 2022
+
+### Neftali Eduardo Antonio-Villa, MD - Sociodemographic inequalities in diabetes subgroups in Mexico and USA: a data-driven individual and epidemiological perspective
+
+```{r juli-2022, echo=FALSE}
+
+library("vembedr")
+
+embed_url("https://youtu.be/UgZSmB5CvIc")
+
+```
+
+[Dr. Neftali Eduardo Antonio-Villa](https://loop.frontiersin.org/people/1092901/overview), who is concluding his PhD training at the National Autonomous University of Mexico (UNAM), is formally trained in clinical medicine and is interested in the impact of social inequalities on cardiometabolic disease outcomes in Mexico, and more broadly, Latin American populations.
+
+His talk centered around two of his recent research projects, one about [sociodemographic inequalities in type 1 diabetes in Mexico](https://pubmed.ncbi.nlm.nih.gov/34487758/) and the other on [diabetes subgroups](https://pubmed.ncbi.nlm.nih.gov/34687306/) and whether the prevalence of these are the same in USA and in Mexico. For the subgroups, he also presented results from an ongoing study.
+
 # June 2022
 
-### June 2022 - Dr. Lauren Wedekind - Investigating the relationship between birth weight and type 2 diabetes
+### Dr. Lauren Wedekind - Investigating the relationship between birth weight and type 2 diabetes
 
 ```{r june-2022, echo=FALSE}
 
