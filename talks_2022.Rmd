@@ -5,14 +5,31 @@ output:
   distill::distill_article:
     self_contained: false
 ---
+# August 2022
+
+### August 2022 - Daniela Nickel, PhD student - Healthy food diversity and risk of chronic diseases
+
+Daniela Nickel, MSc, is a PhD student at the German Institute of Human Nutrition Potsdam-Rehbruecke and investigates psychological and social determinants of healthy food diversity. 
+
+Healthy food diversity is a metric trying to capture both diet quality, here determined by the German Dietary Guidelines, and the diversity of the diet, eating different types of food. 
+
+The results presented in this presentation are preliminary results and may change according to further analyses. 
+
+After the recording the presentation we discussed the possibility of separating the diet quality and the diversity aspects to understand how each concept relate to development of chronic diseases. 
+
+```{r august-2022, echo=FALSE}
+
+library("vembedr")
+
+embed_url("https://youtu.be/vWyiELp_um4")
+
+```
 
 # July 2022
 
 ### Neftali Eduardo Antonio-Villa, MD - Sociodemographic inequalities in diabetes subgroups in Mexico and USA: a data-driven individual and epidemiological perspective
 
 ```{r juli-2022, echo=FALSE}
-
-library("vembedr")
 
 embed_url("https://youtu.be/UgZSmB5CvIc")
 
@@ -27,8 +44,6 @@ His talk centered around two of his recent research projects, one about [sociode
 ### Dr. Lauren Wedekind - Investigating the relationship between birth weight and type 2 diabetes
 
 ```{r june-2022, echo=FALSE}
-
-library("vembedr")
 
 embed_url("https://youtu.be/XTW3ZAz2EuA")
 

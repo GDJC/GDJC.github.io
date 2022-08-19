@@ -16,26 +16,27 @@ Follow us on Twitter @[GDiabetesJC](https://twitter.com/gdiabetesjc) and view ou
 
 ## Upcoming GDJC talk
 
-### August 2022 - Daniela Nickel, PhD student - Healthy food diversity and risk of chronic diseases
+### September 2022 - Jakub Morze, PhD student - Metabolomics and type 2 diabetes
 
-Daniela Nickel is a PhD student at the German Institute of Human Nutrition Potsdam-Rehbruecke and investigates psychological and social determinants of healthy food diversity. A concept that she will explain duinrg her presentation on the relationship between healthy food diversity and risk of major chronic diseases.
-
-Register [here](https://aarhusuniversity.zoom.us/meeting/register/u5UrfuCgrj0qE90wlTfzd4YlJQs0oVbKMEk6 ) to join the talk.
-
-![August 2022 talk](images/Daniela_GDJC_17Aug2022.jpg)
+Further details will come soon.
 
 ## Latest GDJC Talk
 
-### July 2022 - Neftali Eduardo Antonio-Villa, MD - Sociodemographic inequalities in diabetes subgroups in Mexico and USA: a data-driven individual and epidemiological perspective
+### August 2022 - Daniela Nickel, PhD student - Healthy food diversity and risk of chronic diseases
 
-```{r juli-2022, echo=FALSE}
+Daniela Nickel, MSc, is a PhD student at the German Institute of Human Nutrition Potsdam-Rehbruecke and investigates psychological and social determinants of healthy food diversity. 
+
+Healthy food diversity is a metric trying to capture both diet quality, here determined by the German Dietary Guidelines, and the diversity of the diet, eating different types of food. 
+
+The results presented in this presentation are preliminary results and may change according to further analyses. 
+
+After the recording the presentation we discussed the possibility of separating the diet quality and the diversity aspects to understand how each concept relate to development of chronic diseases. 
+
+```{r august-2022, echo=FALSE}
 
 library("vembedr")
 
-embed_url("https://youtu.be/UgZSmB5CvIc")
+embed_url("https://youtu.be/vWyiELp_um4")
 
 ```
 
-[Dr. Neftali Eduardo Antonio-Villa](https://loop.frontiersin.org/people/1092901/overview), who is concluding his PhD training at the National Autonomous University of Mexico (UNAM), is formally trained in clinical medicine and is interested in the impact of social inequalities on cardiometabolic disease outcomes in Mexico, and more broadly, Latin American populations.
-
-His talk centered around two of his recent research projects, one about [sociodemographic inequalities in type 1 diabetes in Mexico](https://pubmed.ncbi.nlm.nih.gov/34487758/) and the other on [diabetes subgroups](https://pubmed.ncbi.nlm.nih.gov/34687306/) and whether the prevalence of these are the same in USA and in Mexico. For the subgroups, he also presented results from an ongoing study.
