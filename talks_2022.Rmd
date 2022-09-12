@@ -5,6 +5,26 @@ output:
   distill::distill_article:
     self_contained: false
 ---
+# September 2022
+
+### September 2022 - Jakub Morze, PhD student - Evidence synthesis in molecular epidemiology
+
+Jakub Morze, MD and PhD student at the University of Warmia and Mazury and Harvard T.H. Chan School of Public Health gives a talk about the complexity of synthesizing evidence in molecular epidemiology using his recent systematic review of metabolites and type 2 diabetes risk as an example. 
+
+Link to the paper [here](https://diabetesjournals.org/care/article/45/4/1013/144892/Metabolomics-and-Type-2-Diabetes-Risk-An-Updated).
+
+Towards the end of the talk he discussed a lot of the issue he experienced conducting this review. 
+
+After the presentation we followed on some of the issues presented, for instance that there are no Risk of Bias assessment tools developed particularly for molecular epidemiology, that the current way of updating systematic reviews is a slow process which could be improved and that future studies would benefit from measuring metabolites multiple times.
+
+```{r september-2022, echo=FALSE}
+
+library("vembedr")
+
+embed_url("https://youtu.be/L9V6lgN5t704")
+
+```
+
 # August 2022
 
 ### August 2022 - Daniela Nickel, PhD student - Healthy food diversity and risk of chronic diseases
@@ -18,8 +38,6 @@ The results presented in this presentation are preliminary results and may chang
 After the recording the presentation we discussed the possibility of separating the diet quality and the diversity aspects to understand how each concept relate to development of chronic diseases. 
 
 ```{r august-2022, echo=FALSE}
-
-library("vembedr")
 
 embed_url("https://youtu.be/vWyiELp_um4")
 

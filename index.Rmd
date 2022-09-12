@@ -16,34 +16,26 @@ Follow us on Twitter @[GDiabetesJC](https://twitter.com/gdiabetesjc) and view ou
 
 ## Upcoming GDJC talk
 
-### September 2022 - Jakub Morze, PhD student - Evidence synthesis in molecular epidemiology
+### October 2022
 
-Jakub Morze, PhD student at the University of Warmia and Mazury and Harvard T.H. Chan School of Public Health Will give a talk about the complexity of synthesizing evidence in molecular epidemiology using his recent systematic review of metabolites and type 2 diabetes risk as an example. Link to the paper is [here](https://diabetesjournals.org/care/article/45/4/1013/144892/Metabolomics-and-Type-2-Diabetes-Risk-An-Updated)
-
-
-The talk will be on September 9th, at 2-3pm UK time
-
-Register [here](https://aarhusuniversity.zoom.us/meeting/register/u5wpf-6qqDMsEtEtFDTFQ99EVeYe9lPIIGSQ)
-
-![September 2022 Talk](images/september_2022_jakub.png)
+Mark Lyngbæk, PhD on the effects of exercise Training on pancreatic beta-cell function and barriers for physical activity 
 
 ## Latest GDJC Talk
 
-### August 2022 - Daniela Nickel, PhD student - Healthy food diversity and risk of chronic diseases
+### September 2022 - Jakub Morze, PhD student - Evidence synthesis in molecular epidemiology
 
-Daniela Nickel, MSc, is a PhD student at the German Institute of Human Nutrition Potsdam-Rehbruecke and investigates psychological and social determinants of healthy food diversity. 
+Jakub Morze, MD and PhD student at the University of Warmia and Mazury and Harvard T.H. Chan School of Public Health gives a talk about the complexity of synthesizing evidence in molecular epidemiology using his recent systematic review of metabolites and type 2 diabetes risk as an example. 
 
-Healthy food diversity is a metric trying to capture both diet quality, here determined by the German Dietary Guidelines, and the diversity of the diet, eating different types of food. 
+Link to the paper [here](https://diabetesjournals.org/care/article/45/4/1013/144892/Metabolomics-and-Type-2-Diabetes-Risk-An-Updated).
 
-The results presented in this presentation are preliminary results and may change according to further analyses. 
+Towards the end of the talk he discussed a lot of the issue he experienced conducting this review. 
 
-After the recording the presentation we discussed the possibility of separating the diet quality and the diversity aspects to understand how each concept relate to development of chronic diseases. 
+After the presentation we followed on some of the issues presented, for instance that there are no Risk of Bias assessment tools developed particularly for molecular epidemiology, that the current way of updating systematic reviews is a slow process which could be improved and that future studies would benefit from measuring metabolites multiple times.
 
-```{r august-2022, echo=FALSE}
+```{r september-2022, echo=FALSE}
 
 library("vembedr")
 
-embed_url("https://youtu.be/vWyiELp_um4")
+embed_url("https://youtu.be/L9V6lgN5t704")
 
 ```
-
